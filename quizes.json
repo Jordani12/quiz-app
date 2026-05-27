@@ -1,0 +1,5604 @@
+{
+  "quizzes": [
+    {
+      "id": 1,
+      "tema": "História",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o primeiro presidente do Brasil?",
+          "opcoes": {
+            "a": "Getúlio Vargas",
+            "b": "Deodoro da Fonseca",
+            "c": "Juscelino Kubitschek",
+            "d": "Pedro II"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que ano ocorreu a Proclamação da República no Brasil?",
+          "opcoes": {
+            "a": "1822",
+            "b": "1889",
+            "c": "1922",
+            "d": "1891"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual civilização construiu as pirâmides de Gizé?",
+          "opcoes": {
+            "a": "Maias",
+            "b": "Egípcios",
+            "c": "Astecas",
+            "d": "Romanos"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem liderou a independência da maioria dos países da América do Sul?",
+          "opcoes": {
+            "a": "José de San Martín",
+            "b": "Simón Bolívar",
+            "c": "Bernardo O’Higgins",
+            "d": "Miguel Hidalgo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que ano terminou a Segunda Guerra Mundial?",
+          "opcoes": {
+            "a": "1943",
+            "b": "1944",
+            "c": "1945",
+            "d": "1946"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "tema": "Ciência",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o planeta mais próximo do Sol?",
+          "opcoes": {
+            "a": "Vênus",
+            "b": "Mercúrio",
+            "c": "Marte",
+            "d": "Terra"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o elemento químico representado pela letra O?",
+          "opcoes": {
+            "a": "Ouro",
+            "b": "Oxigênio",
+            "c": "Ósmio",
+            "d": "Óxido"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem formulou a teoria da relatividade?",
+          "opcoes": {
+            "a": "Isaac Newton",
+            "b": "Albert Einstein",
+            "c": "Niels Bohr",
+            "d": "Galileo Galilei"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a unidade básica da vida?",
+          "opcoes": {
+            "a": "Átomo",
+            "b": "Molécula",
+            "c": "Célula",
+            "d": "Órgão"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o estado físico da água a 100°C ao nível do mar?",
+          "opcoes": {
+            "a": "Sólido",
+            "b": "Líquido",
+            "c": "Gasoso",
+            "d": "Plasma"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "tema": "Geografia",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o maior país do mundo em área?",
+          "opcoes": {
+            "a": "Canadá",
+            "b": "Rússia",
+            "c": "China",
+            "d": "Estados Unidos"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Austrália?",
+          "opcoes": {
+            "a": "Sydney",
+            "b": "Melbourne",
+            "c": "Canberra",
+            "d": "Brisbane"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual rio é o mais extenso do mundo segundo algumas medições?",
+          "opcoes": {
+            "a": "Nilo",
+            "b": "Amazonas",
+            "c": "Yangtzé",
+            "d": "Mississippi"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que continente fica o deserto do Saara?",
+          "opcoes": {
+            "a": "Ásia",
+            "b": "África",
+            "c": "América do Sul",
+            "d": "Oceania"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país tem o maior número de ilhas?",
+          "opcoes": {
+            "a": "Indonésia",
+            "b": "Filipinas",
+            "c": "Canadá",
+            "d": "Noruega"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "tema": "Esportes",
+      "perguntas": [
+        {
+          "pergunta": "Quantos jogadores tem um time de futebol em campo?",
+          "opcoes": {
+            "a": "9",
+            "b": "10",
+            "c": "11",
+            "d": "12"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que esporte se usa um taco e uma bola pequena em um campo oval?",
+          "opcoes": {
+            "a": "Beisebol",
+            "b": "Críquete",
+            "c": "Hóquei",
+            "d": "Golfe"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quantos sets são necessários para vencer uma partida de tênis masculina em Grand Slam?",
+          "opcoes": {
+            "a": "2 de 3",
+            "b": "3 de 5",
+            "c": "4 de 7",
+            "d": "1 de 1"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que cidade ocorreram os Jogos Olímpicos de 2016?",
+          "opcoes": {
+            "a": "Londres",
+            "b": "Tóquio",
+            "c": "Rio de Janeiro",
+            "d": "Atenas"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual país venceu mais Copas do Mundo de futebol até hoje?",
+          "opcoes": {
+            "a": "Alemanha",
+            "b": "Argentina",
+            "c": "Itália",
+            "d": "Brasil"
+          },
+          "resposta_correta": "d"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "tema": "Arte",
+      "perguntas": [
+        {
+          "pergunta": "Quem pintou a Mona Lisa?",
+          "opcoes": {
+            "a": "Vincent van Gogh",
+            "b": "Pablo Picasso",
+            "c": "Leonardo da Vinci",
+            "d": "Michelangelo"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual movimento artístico é associado a Salvador Dalí?",
+          "opcoes": {
+            "a": "Impressionismo",
+            "b": "Surrealismo",
+            "c": "Cubismo",
+            "d": "Expressionismo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que técnica se pinta com pigmento diluído em água sobre papel?",
+          "opcoes": {
+            "a": "Óleo",
+            "b": "Acrílico",
+            "c": "Aquarela",
+            "d": "Fresco"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o nome do famoso escultor de David?",
+          "opcoes": {
+            "a": "Donatello",
+            "b": "Bernini",
+            "c": "Michelangelo",
+            "d": "Rodin"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual país é conhecido pelo ukiyo-e, gravuras em madeira?",
+          "opcoes": {
+            "a": "China",
+            "b": "Japão",
+            "c": "Coreia",
+            "d": "Vietnã"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "tema": "Literatura",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Dom Quixote”?",
+          "opcoes": {
+            "a": "William Shakespeare",
+            "b": "Miguel de Cervantes",
+            "c": "Victor Hugo",
+            "d": "Fiódor Dostoiévski"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual autor criou Sherlock Holmes?",
+          "opcoes": {
+            "a": "Agatha Christie",
+            "b": "Arthur Conan Doyle",
+            "c": "Edgar Allan Poe",
+            "d": "Raymond Chandler"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que língua foi originalmente escrito “Cem Anos de Solidão”?",
+          "opcoes": {
+            "a": "Inglês",
+            "b": "Português",
+            "c": "Espanhol",
+            "d": "Francês"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual obra é de Machado de Assis?",
+          "opcoes": {
+            "a": "O Cortiço",
+            "b": "Memórias Póstumas de Brás Cubas",
+            "c": "Grande Sertão: Veredas",
+            "d": "Vidas Secas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “A Metamorfose”?",
+          "opcoes": {
+            "a": "Franz Kafka",
+            "b": "Albert Camus",
+            "c": "Thomas Mann",
+            "d": "Hermann Hesse"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "tema": "Cinema",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “E.T. – O Extraterrestre”?",
+          "opcoes": {
+            "a": "Steven Spielberg",
+            "b": "George Lucas",
+            "c": "Martin Scorsese",
+            "d": "James Cameron"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme ganhou o Oscar de Melhor Filme em 1994?",
+          "opcoes": {
+            "a": "Forrest Gump",
+            "b": "Pulp Fiction",
+            "c": "The Shawshank Redemption",
+            "d": "Braveheart"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual atriz interpretou Hermione na série Harry Potter?",
+          "opcoes": {
+            "a": "Emma Watson",
+            "b": "Emma Stone",
+            "c": "Natalie Portman",
+            "d": "Keira Knightley"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que país nasceu o diretor Akira Kurosawa?",
+          "opcoes": {
+            "a": "China",
+            "b": "Japão",
+            "c": "Coreia do Sul",
+            "d": "Índia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual filme é famoso pela frase “May the Force be with you”?",
+          "opcoes": {
+            "a": "Star Trek",
+            "b": "Star Wars",
+            "c": "Battlestar Galactica",
+            "d": "Guardians of the Galaxy"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "tema": "Música",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido como “Rei do Rock”?",
+          "opcoes": {
+            "a": "Elvis Presley",
+            "b": "Michael Jackson",
+            "c": "Freddie Mercury",
+            "d": "Chuck Berry"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual banda lançou o álbum “Abbey Road”?",
+          "opcoes": {
+            "a": "The Rolling Stones",
+            "b": "The Beatles",
+            "c": "Pink Floyd",
+            "d": "Led Zeppelin"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual instrumento tem teclas, cordas e martelos internos?",
+          "opcoes": {
+            "a": "Violino",
+            "b": "Piano",
+            "c": "Guitarra",
+            "d": "Saxofone"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que país nasceu o compositor Ludwig van Beethoven?",
+          "opcoes": {
+            "a": "Áustria",
+            "b": "Alemanha",
+            "c": "França",
+            "d": "Itália"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual gênero musical é originário da Jamaica?",
+          "opcoes": {
+            "a": "Samba",
+            "b": "Reggae",
+            "c": "Tango",
+            "d": "Flamenco"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "tema": "Tecnologia",
+      "perguntas": [
+        {
+          "pergunta": "O que significa a sigla “CPU”?",
+          "opcoes": {
+            "a": "Central Processing Unit",
+            "b": "Computer Power Unit",
+            "c": "Central Program Unit",
+            "d": "Core Processing Unit"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual empresa criou o sistema operacional Windows?",
+          "opcoes": {
+            "a": "Apple",
+            "b": "Microsoft",
+            "c": "Google",
+            "d": "IBM"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é HTML usado para criar?",
+          "opcoes": {
+            "a": "Planilhas",
+            "b": "Páginas web",
+            "c": "Banco de dados",
+            "d": "Sistemas operacionais"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a unidade de armazenamento maior entre as opções?",
+          "opcoes": {
+            "a": "Megabyte",
+            "b": "Gigabyte",
+            "c": "Kilobyte",
+            "d": "Byte"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que significa “AI” em tecnologia?",
+          "opcoes": {
+            "a": "Advanced Internet",
+            "b": "Artificial Intelligence",
+            "c": "Automated Interface",
+            "d": "Analog Input"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "tema": "Curiosidades",
+      "perguntas": [
+        {
+          "pergunta": "Qual animal é conhecido por mudar de cor para se camuflar?",
+          "opcoes": {
+            "a": "Camaleão",
+            "b": "Jacaré",
+            "c": "Elefante",
+            "d": "Golfinho"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quantos ossos tem o corpo humano adulto aproximadamente?",
+          "opcoes": {
+            "a": "106",
+            "b": "206",
+            "c": "306",
+            "d": "406"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual fruta é conhecida por flutuar na água devido ao seu teor de ar?",
+          "opcoes": {
+            "a": "Maçã",
+            "b": "Abacate",
+            "c": "Banana",
+            "d": "Uva"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o menor país do mundo em área?",
+          "opcoes": {
+            "a": "Mônaco",
+            "b": "Nauru",
+            "c": "Vaticano",
+            "d": "San Marino"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual metal é líquido à temperatura ambiente?",
+          "opcoes": {
+            "a": "Ferro",
+            "b": "Mercúrio",
+            "c": "Ouro",
+            "d": "Alumínio"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a língua mais falada no mundo por número de falantes nativos?",
+          "opcoes": {
+            "a": "Inglês",
+            "b": "Mandarim",
+            "c": "Espanhol",
+            "d": "Hindi"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que mês se celebra o Dia Internacional da Mulher?",
+          "opcoes": {
+            "a": "Janeiro",
+            "b": "Março",
+            "c": "Maio",
+            "d": "Julho"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o símbolo químico do ouro?",
+          "opcoes": {
+            "a": "Ag",
+            "b": "Au",
+            "c": "Gd",
+            "d": "Go"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a moeda oficial do Japão?",
+          "opcoes": {
+            "a": "Yuan",
+            "b": "Won",
+            "c": "Yen",
+            "d": "Dólar"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é a maior floresta tropical do mundo?",
+          "opcoes": {
+            "a": "Floresta do Congo",
+            "b": "Floresta Amazônica",
+            "c": "Floresta de Bornéu",
+            "d": "Floresta de Daintree"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o principal ingrediente do guacamole?",
+          "opcoes": {
+            "a": "Tomate",
+            "b": "Abacate",
+            "c": "Cebola",
+            "d": "Pimenta"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que país nasceu o samba?",
+          "opcoes": {
+            "a": "Argentina",
+            "b": "Portugal",
+            "c": "Brasil",
+            "d": "Espanha"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o símbolo químico do oxigênio?",
+          "opcoes": {
+            "a": "O",
+            "b": "Ox",
+            "c": "Og",
+            "d": "Oy"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual planeta é conhecido como o “Planeta Vermelho”?",
+          "opcoes": {
+            "a": "Vênus",
+            "b": "Marte",
+            "c": "Júpiter",
+            "d": "Saturno"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior oceano do planeta?",
+          "opcoes": {
+            "a": "Atlântico",
+            "b": "Índico",
+            "c": "Pacífico",
+            "d": "Ártico"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo pelo qual as plantas produzem alimento usando luz?",
+          "opcoes": {
+            "a": "Respiração",
+            "b": "Fotossíntese",
+            "c": "Fermentação",
+            "d": "Osmose"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem pintou “A Noite Estrelada”?",
+          "opcoes": {
+            "a": "Claude Monet",
+            "b": "Vincent van Gogh",
+            "c": "Paul Cézanne",
+            "d": "Henri Matisse"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da França?",
+          "opcoes": {
+            "a": "Lyon",
+            "b": "Marselha",
+            "c": "Paris",
+            "d": "Nice"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o maior mamífero terrestre?",
+          "opcoes": {
+            "a": "Rinoceronte",
+            "b": "Elefante",
+            "c": "Hipopótamo",
+            "d": "Girafa"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que ano o homem pisou na Lua pela primeira vez?",
+          "opcoes": {
+            "a": "1965",
+            "b": "1969",
+            "c": "1972",
+            "d": "1959"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o principal idioma falado na Argentina?",
+          "opcoes": {
+            "a": "Português",
+            "b": "Espanhol",
+            "c": "Inglês",
+            "d": "Italiano"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o símbolo químico do ferro?",
+          "opcoes": {
+            "a": "Fe",
+            "b": "Ir",
+            "c": "Fr",
+            "d": "Fi"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a capital do Canadá?",
+          "opcoes": {
+            "a": "Toronto",
+            "b": "Vancouver",
+            "c": "Ottawa",
+            "d": "Montreal"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de transformação de lagarta em borboleta?",
+          "opcoes": {
+            "a": "Metamorfose",
+            "b": "Germinação",
+            "c": "Fecundação",
+            "d": "Eclosão"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o maior órgão do corpo humano?",
+          "opcoes": {
+            "a": "Fígado",
+            "b": "Pele",
+            "c": "Coração",
+            "d": "Pulmão"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual país é famoso por suas tulipas e moinhos de vento?",
+          "opcoes": {
+            "a": "Bélgica",
+            "b": "Holanda",
+            "c": "Dinamarca",
+            "d": "Suíça"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “Hamlet”?",
+          "opcoes": {
+            "a": "Christopher Marlowe",
+            "b": "William Shakespeare",
+            "c": "John Milton",
+            "d": "Geoffrey Chaucer"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Itália?",
+          "opcoes": {
+            "a": "Milão",
+            "b": "Veneza",
+            "c": "Roma",
+            "d": "Florença"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual animal é símbolo da Austrália e salta com as patas traseiras?",
+          "opcoes": {
+            "a": "Canguru",
+            "b": "Koala",
+            "c": "Dingo",
+            "d": "Emu"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a bebida tradicional do Japão feita de arroz fermentado?",
+          "opcoes": {
+            "a": "Soju",
+            "b": "Sake",
+            "c": "Tequila",
+            "d": "Vodka"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o maior satélite natural da Terra?",
+          "opcoes": {
+            "a": "Fobos",
+            "b": "Deimos",
+            "c": "Lua",
+            "d": "Europa"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que país nasceu o filósofo Confúcio?",
+          "opcoes": {
+            "a": "Índia",
+            "b": "China",
+            "c": "Japão",
+            "d": "Coreia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de solidificação do magma?",
+          "opcoes": {
+            "a": "Erosão",
+            "b": "Vulcanismo",
+            "c": "Solidificação",
+            "d": "Resfriamento ígneo"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o principal ingrediente do hummus?",
+          "opcoes": {
+            "a": "Grão-de-bico",
+            "b": "Lentilha",
+            "c": "Feijão",
+            "d": "Ervilha"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a capital da Alemanha?",
+          "opcoes": {
+            "a": "Munique",
+            "b": "Frankfurt",
+            "c": "Berlim",
+            "d": "Hamburgo"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o maior lago de água doce por área?",
+          "opcoes": {
+            "a": "Lago Superior",
+            "b": "Lago Vitória",
+            "c": "Lago Baikal",
+            "d": "Lago Tanganica"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem compôs a Nona Sinfonia?",
+          "opcoes": {
+            "a": "Mozart",
+            "b": "Beethoven",
+            "c": "Bach",
+            "d": "Haydn"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de divisão celular que produz gametas?",
+          "opcoes": {
+            "a": "Mitose",
+            "b": "Meiose",
+            "c": "Fissão binária",
+            "d": "Gemulação"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país é conhecido como “Terra do Sol Nascente”?",
+          "opcoes": {
+            "a": "China",
+            "b": "Japão",
+            "c": "Coreia do Sul",
+            "d": "Tailândia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o metal mais leve entre os listados?",
+          "opcoes": {
+            "a": "Chumbo",
+            "b": "Alumínio",
+            "c": "Lítio",
+            "d": "Ferro"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da Espanha?",
+          "opcoes": {
+            "a": "Barcelona",
+            "b": "Sevilha",
+            "c": "Madrid",
+            "d": "Valência"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o maior órgão interno do corpo humano?",
+          "opcoes": {
+            "a": "Coração",
+            "b": "Fígado",
+            "c": "Pulmão",
+            "d": "Rim"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do famoso relógio em Londres?",
+          "opcoes": {
+            "a": "Big Ben",
+            "b": "Tower Clock",
+            "c": "London Time",
+            "d": "Westminster Watch"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual fruta é cítrica e rica em vitamina C?",
+          "opcoes": {
+            "a": "Banana",
+            "b": "Laranja",
+            "c": "Maçã",
+            "d": "Uva"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o principal ingrediente do sushi tradicional?",
+          "opcoes": {
+            "a": "Trigo",
+            "b": "Arroz",
+            "c": "Milho",
+            "d": "Aveia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o maior país da América do Sul em área?",
+          "opcoes": {
+            "a": "Argentina",
+            "b": "Brasil",
+            "c": "Peru",
+            "d": "Colômbia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem pintou “O Grito”?",
+          "opcoes": {
+            "a": "Edvard Munch",
+            "b": "Gustav Klimt",
+            "c": "Paul Klee",
+            "d": "Henri Rousseau"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de transformação de líquido em vapor?",
+          "opcoes": {
+            "a": "Condensação",
+            "b": "Evaporação",
+            "c": "Sublimação",
+            "d": "Solidificação"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Rússia?",
+          "opcoes": {
+            "a": "São Petersburgo",
+            "b": "Moscou",
+            "c": "Novosibirsk",
+            "d": "Kazan"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual animal é conhecido por sua memória e inteligência entre os mamíferos marinhos?",
+          "opcoes": {
+            "a": "Tubarão",
+            "b": "Golfinho",
+            "c": "Foca",
+            "d": "Baleia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "tema": "Cultura Geral",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o principal ingrediente do prato paella?",
+          "opcoes": {
+            "a": "Massa",
+            "b": "Arroz",
+            "c": "Batata",
+            "d": "Milho"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que país nasceu o filósofo Sócrates?",
+          "opcoes": {
+            "a": "Itália",
+            "b": "Grécia",
+            "c": "Egito",
+            "d": "Turquia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Índia?",
+          "opcoes": {
+            "a": "Mumbai",
+            "b": "Nova Délhi",
+            "c": "Bangalore",
+            "d": "Kolkata"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do gás que compõe a maior parte da atmosfera terrestre?",
+          "opcoes": {
+            "a": "Oxigênio",
+            "b": "Nitrogênio",
+            "c": "Dióxido de carbono",
+            "d": "Hélio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior mamífero marinho?",
+          "opcoes": {
+            "a": "Orca",
+            "b": "Golfinho",
+            "c": "Baleia-azul",
+            "d": "Tubarão-baleia"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem proclamou a República no Brasil?",
+          "opcoes": {
+            "a": "Dom Pedro II",
+            "b": "Marechal Deodoro da Fonseca",
+            "c": "Getúlio Vargas",
+            "d": "Joaquim Nabuco"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que ano foi abolida a escravidão no Brasil?",
+          "opcoes": {
+            "a": "1871",
+            "b": "1888",
+            "c": "1890",
+            "d": "1900"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual foi a capital do Brasil antes de Brasília?",
+          "opcoes": {
+            "a": "Salvador",
+            "b": "Rio de Janeiro",
+            "c": "São Paulo",
+            "d": "Belo Horizonte"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem foi o imperador do Brasil durante a independência?",
+          "opcoes": {
+            "a": "Dom Pedro I",
+            "b": "Dom Pedro II",
+            "c": "José Bonifácio",
+            "d": "Tiradentes"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual movimento ocorreu em 1930 no Brasil?",
+          "opcoes": {
+            "a": "Revolução de 1930",
+            "b": "Golpe de 1964",
+            "c": "Proclamação da República",
+            "d": "Inconfidência Mineira"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o autor de “O Guarani”?",
+          "opcoes": {
+            "a": "José de Alencar",
+            "b": "Machado de Assis",
+            "c": "Aluísio Azevedo",
+            "d": "Euclides da Cunha"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que década foi inaugurada Brasília?",
+          "opcoes": {
+            "a": "1940",
+            "b": "1950",
+            "c": "1960",
+            "d": "1970"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual presidente brasileiro instituiu o Plano Real?",
+          "opcoes": {
+            "a": "Fernando Henrique Cardoso",
+            "b": "Itamar Franco",
+            "c": "Luiz Inácio Lula da Silva",
+            "d": "Fernando Collor"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem liderou a Inconfidência Mineira?",
+          "opcoes": {
+            "a": "Tiradentes",
+            "b": "Zumbi dos Palmares",
+            "c": "José Bonifácio",
+            "d": "Duque de Caxias"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi a capital do Brasil colonial?",
+          "opcoes": {
+            "a": "Salvador",
+            "b": "Rio de Janeiro",
+            "c": "São Paulo",
+            "d": "Recife"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi a primeira mulher eleita prefeita em uma capital brasileira?",
+          "opcoes": {
+            "a": "Luiza Erundina",
+            "b": "Marta Suplicy",
+            "c": "Benedita da Silva",
+            "d": "D. Maria"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que ano ocorreu a Revolta da Armada?",
+          "opcoes": {
+            "a": "1893–1894",
+            "b": "1910–1911",
+            "c": "1930–1931",
+            "d": "1950–1951"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual líder quilombola é símbolo da resistência à escravidão?",
+          "opcoes": {
+            "a": "Zumbi dos Palmares",
+            "b": "Tiradentes",
+            "c": "Lampião",
+            "d": "João Cândido"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi presidente do Brasil entre 2003 e 2010?",
+          "opcoes": {
+            "a": "Fernando Henrique Cardoso",
+            "b": "Luiz Inácio Lula da Silva",
+            "c": "Dilma Rousseff",
+            "d": "Michel Temer"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual foi o nome do movimento operário da Revolta da Chibata?",
+          "opcoes": {
+            "a": "Revolta da Vacina",
+            "b": "Revolta da Chibata",
+            "c": "Revolta dos Malês",
+            "d": "Revolta dos Canudos"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Qual escritor brasileiro escreveu “Os Sertões”?",
+          "opcoes": {
+            "a": "Euclides da Cunha",
+            "b": "Graciliano Ramos",
+            "c": "Jorge Amado",
+            "d": "Clarice Lispector"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que estado fica a cidade histórica de Ouro Preto?",
+          "opcoes": {
+            "a": "Minas Gerais",
+            "b": "Bahia",
+            "c": "Pernambuco",
+            "d": "Goiás"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o presidente que renunciou em 1992?",
+          "opcoes": {
+            "a": "Fernando Collor",
+            "b": "Itamar Franco",
+            "c": "José Sarney",
+            "d": "Fernando Henrique Cardoso"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi a principal causa da Guerra do Paraguai?",
+          "opcoes": {
+            "a": "Disputa territorial e alianças regionais",
+            "b": "Revolução industrial",
+            "c": "Colonização europeia",
+            "d": "Crise econômica global"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o primeiro presidente civil após a ditadura militar?",
+          "opcoes": {
+            "a": "José Sarney",
+            "b": "Fernando Collor",
+            "c": "Itamar Franco",
+            "d": "Fernando Henrique Cardoso"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Em que ano ocorreu a Constituição Cidadã no Brasil (Constituição atual)?",
+          "opcoes": {
+            "a": "1978",
+            "b": "1988",
+            "c": "1998",
+            "d": "2008"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual movimento social lutou pela reforma agrária no Brasil?",
+          "opcoes": {
+            "a": "MST",
+            "b": "CUT",
+            "c": "UNE",
+            "d": "OAB"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o líder da Revolução Farroupilha?",
+          "opcoes": {
+            "a": "Bento Gonçalves",
+            "b": "Duque de Caxias",
+            "c": "Tiradentes",
+            "d": "Zumbi"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cidade foi capital do Brasil Colônia antes do Rio de Janeiro?",
+          "opcoes": {
+            "a": "Salvador",
+            "b": "São Paulo",
+            "c": "Recife",
+            "d": "Belém"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o primeiro presidente eleito por voto direto após a ditadura militar?",
+          "opcoes": {
+            "a": "Tancredo Neves (eleito indiretamente)",
+            "b": "Fernando Collor",
+            "c": "José Sarney",
+            "d": "Fernando Henrique Cardoso"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Qual foi o movimento que resultou na abolição da escravidão no Brasil?",
+          "opcoes": {
+            "a": "Movimento abolicionista",
+            "b": "Revolução Industrial",
+            "c": "Inconfidência Mineira",
+            "d": "Revolta dos Malês"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o ministro da Fazenda responsável pelo Plano Real?",
+          "opcoes": {
+            "a": "Fernando Henrique Cardoso",
+            "b": "Itamar Franco",
+            "c": "Fernando Henrique Cardoso (como ministro)",
+            "d": "Pedro Malan"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que cidade ocorreu a Batalha dos Guararapes?",
+          "opcoes": {
+            "a": "Recife",
+            "b": "Salvador",
+            "c": "Fortaleza",
+            "d": "Natal"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi o nome do movimento messiânico no sertão nordestino liderado por Antônio Conselheiro?",
+          "opcoes": {
+            "a": "Canudos",
+            "b": "Cabanagem",
+            "c": "Balaiada",
+            "d": "Farroupilha"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi o primeiro presidente do período republicano?",
+          "opcoes": {
+            "a": "Marechal Deodoro da Fonseca",
+            "b": "Marechal Floriano Peixoto",
+            "c": "Prudente de Morais",
+            "d": "Campos Sales"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Qual foi a principal atividade econômica do Brasil colonial?",
+          "opcoes": {
+            "a": "Indústria",
+            "b": "Agricultura de exportação (açúcar)",
+            "c": "Tecnologia",
+            "d": "Mineração moderna"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem foi o líder da Revolta dos Malês?",
+          "opcoes": {
+            "a": "Escravos de origem africana muçulmana",
+            "b": "Fazendeiros locais",
+            "c": "Militares rebeldes",
+            "d": "Comerciantes europeus"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que ano ocorreu a Inconfidência Mineira?",
+          "opcoes": {
+            "a": "1789",
+            "b": "1792",
+            "c": "1808",
+            "d": "1822"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual presidente brasileiro instituiu o voto direto para presidente novamente em 1989?",
+          "opcoes": {
+            "a": "José Sarney",
+            "b": "Fernando Collor (eleito em 1989)",
+            "c": "Itamar Franco",
+            "d": "Fernando Henrique Cardoso"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi o principal produto explorado no ciclo do ouro no Brasil?",
+          "opcoes": {
+            "a": "Ouro",
+            "b": "Café",
+            "c": "Açúcar",
+            "d": "Pau-brasil"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o líder da Revolução Constitucionalista de 1932?",
+          "opcoes": {
+            "a": "Getúlio Vargas",
+            "b": "Júlio Prestes",
+            "c": "Paulistas e líderes locais",
+            "d": "João Pessoa"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que ano ocorreu a transferência da corte portuguesa para o Brasil?",
+          "opcoes": {
+            "a": "1808",
+            "b": "1822",
+            "c": "1789",
+            "d": "1815"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi a capital do Brasil durante o período colonial tardio?",
+          "opcoes": {
+            "a": "Salvador",
+            "b": "Rio de Janeiro",
+            "c": "São Paulo",
+            "d": "Recife"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem foi o presidente que instituiu o Estado Novo em 1937?",
+          "opcoes": {
+            "a": "Getúlio Vargas",
+            "b": "Juscelino Kubitschek",
+            "c": "João Goulart",
+            "d": "Café Filho"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual movimento cultural brasileiro valorizou as raízes nacionais na década de 1920?",
+          "opcoes": {
+            "a": "Modernismo",
+            "b": "Romantismo",
+            "c": "Realismo",
+            "d": "Simbolismo"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o líder da Revolta da Vacina no Rio de Janeiro?",
+          "opcoes": {
+            "a": "População e setores populares contra a vacinação obrigatória",
+            "b": "Militares",
+            "c": "Fazendeiros",
+            "d": "Comerciantes"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que ano ocorreu a Guerra de Canudos?",
+          "opcoes": {
+            "a": "1870–1872",
+            "b": "1896–1897",
+            "c": "1910–1912",
+            "d": "1930–1932"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem foi o autor de “Vidas Secas”?",
+          "opcoes": {
+            "a": "Graciliano Ramos",
+            "b": "Jorge Amado",
+            "c": "Euclides da Cunha",
+            "d": "Lima Barreto"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual presidente brasileiro foi deposto pelo golpe militar de 1964?",
+          "opcoes": {
+            "a": "João Goulart",
+            "b": "Juscelino Kubitschek",
+            "c": "Jânio Quadros",
+            "d": "Getúlio Vargas"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi o principal objetivo da Constituição de 1988?",
+          "opcoes": {
+            "a": "Reforçar o regime militar",
+            "b": "Restabelecer direitos democráticos e sociais",
+            "c": "Centralizar o poder executivo",
+            "d": "Privatizar empresas estatais"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "tema": "História do Brasil",
+      "perguntas": [
+        {
+          "pergunta": "Quem foi o primeiro presidente do Brasil eleito por voto direto após a redemocratização?",
+          "opcoes": {
+            "a": "Fernando Collor",
+            "b": "Itamar Franco",
+            "c": "Fernando Henrique Cardoso",
+            "d": "Luiz Inácio Lula da Silva"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi o movimento liderado por trabalhadores do campo por reforma agrária?",
+          "opcoes": {
+            "a": "MST",
+            "b": "CUT",
+            "c": "UNE",
+            "d": "PT"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que década ocorreu o Plano de Metas de Juscelino Kubitschek?",
+          "opcoes": {
+            "a": "1930",
+            "b": "1940",
+            "c": "1950",
+            "d": "1960"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Quem foi o líder da Revolta dos Sargentos em 1963?",
+          "opcoes": {
+            "a": "Militares de baixa patente insatisfeitos",
+            "b": "Fazendeiros",
+            "c": "Trabalhadores rurais",
+            "d": "Estudantes"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual foi a principal consequência da construção de Brasília?",
+          "opcoes": {
+            "a": "Descentralização administrativa e desenvolvimento do interior",
+            "b": "Fim da capitalização do país",
+            "c": "Aumento do poder do Rio de Janeiro",
+            "d": "Redução da população urbana"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "O que é fotossíntese?",
+          "opcoes": {
+            "a": "Processo de respiração animal",
+            "b": "Processo de produção de energia por plantas usando luz",
+            "c": "Processo de decomposição",
+            "d": "Processo de polinização"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual gás é essencial para a respiração humana?",
+          "opcoes": {
+            "a": "Nitrogênio",
+            "b": "Oxigênio",
+            "c": "Dióxido de carbono",
+            "d": "Hélio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a camada externa da Terra chamada?",
+          "opcoes": {
+            "a": "Manto",
+            "b": "Núcleo",
+            "c": "Crosta",
+            "d": "Litosfera"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "O que mede a escala Richter?",
+          "opcoes": {
+            "a": "Temperatura",
+            "b": "Intensidade sísmica",
+            "c": "Velocidade do vento",
+            "d": "Pressão atmosférica"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o processo pelo qual a água retorna à atmosfera?",
+          "opcoes": {
+            "a": "Precipitação",
+            "b": "Evaporação",
+            "c": "Infiltração",
+            "d": "Condensação"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o principal componente do ar que respiramos?",
+          "opcoes": {
+            "a": "Oxigênio",
+            "b": "Nitrogênio",
+            "c": "Dióxido de carbono",
+            "d": "Argônio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um ecossistema?",
+          "opcoes": {
+            "a": "Conjunto de espécies isoladas",
+            "b": "Comunidade de organismos e seu ambiente físico",
+            "c": "Apenas plantas de uma região",
+            "d": "Apenas animais de uma região"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a função dos glóbulos vermelhos no sangue?",
+          "opcoes": {
+            "a": "Combater infecções",
+            "b": "Transportar oxigênio",
+            "c": "Coagular o sangue",
+            "d": "Produzir hormônios"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior órgão do corpo humano?",
+          "opcoes": {
+            "a": "Fígado",
+            "b": "Coração",
+            "c": "Pele",
+            "d": "Pulmão"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "O que é biodiversidade?",
+          "opcoes": {
+            "a": "Variedade de espécies em um ecossistema",
+            "b": "Número de indivíduos de uma espécie",
+            "c": "Quantidade de água em um habitat",
+            "d": "Temperatura média de uma região"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o processo de formação de rochas sedimentares?",
+          "opcoes": {
+            "a": "Resfriamento do magma",
+            "b": "Compactação e cimentação de sedimentos",
+            "c": "Metamorfismo",
+            "d": "Erosão contínua"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é uma cadeia alimentar?",
+          "opcoes": {
+            "a": "Sequência de transferência de energia entre organismos",
+            "b": "Lista de espécies de uma floresta",
+            "c": "Grupo de animais predadores",
+            "d": "Conjunto de plantas de um campo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a unidade de medida da massa no Sistema Internacional?",
+          "opcoes": {
+            "a": "Metro",
+            "b": "Quilograma",
+            "c": "Segundo",
+            "d": "Ampere"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um fóssil?",
+          "opcoes": {
+            "a": "Rocha vulcânica",
+            "b": "Restos ou vestígios de organismos preservados",
+            "c": "Mineral metálico",
+            "d": "Tipo de solo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a principal fonte de energia para a Terra?",
+          "opcoes": {
+            "a": "Vento",
+            "b": "Sol",
+            "c": "Marés",
+            "d": "Geotérmica"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo de divisão celular que gera duas células idênticas?",
+          "opcoes": {
+            "a": "Meiose",
+            "b": "Mitose",
+            "c": "Fissão binária",
+            "d": "Gemulação"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um vírus?",
+          "opcoes": {
+            "a": "Organismo unicelular",
+            "b": "Partícula infecciosa que precisa de célula hospedeira",
+            "c": "Tipo de bactéria",
+            "d": "Célula vegetal"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o principal mineral encontrado no osso humano?",
+          "opcoes": {
+            "a": "Ferro",
+            "b": "Cálcio",
+            "c": "Potássio",
+            "d": "Sódio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que significa “endêmico”?",
+          "opcoes": {
+            "a": "Espécie encontrada em todo o mundo",
+            "b": "Espécie restrita a uma área específica",
+            "c": "Espécie extinta",
+            "d": "Espécie invasora"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o estado físico do gelo?",
+          "opcoes": {
+            "a": "Líquido",
+            "b": "Gasoso",
+            "c": "Sólido",
+            "d": "Plasma"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo pelo qual as plantas perdem água pelas folhas?",
+          "opcoes": {
+            "a": "Transpiração",
+            "b": "Respiração",
+            "c": "Fotossíntese",
+            "d": "Osmose"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é pH uma medida de?",
+          "opcoes": {
+            "a": "Temperatura",
+            "b": "Acidez ou alcalinidade de uma solução",
+            "c": "Densidade",
+            "d": "Pressão"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o planeta com maior massa no Sistema Solar?",
+          "opcoes": {
+            "a": "Terra",
+            "b": "Saturno",
+            "c": "Júpiter",
+            "d": "Netuno"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "O que é a camada de ozônio importante para a Terra?",
+          "opcoes": {
+            "a": "Produzir oxigênio",
+            "b": "Proteger contra radiação ultravioleta",
+            "c": "Regular a gravidade",
+            "d": "Aumentar a temperatura global"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de formação de nuvens?",
+          "opcoes": {
+            "a": "Sublimação",
+            "b": "Condensação",
+            "c": "Evaporação",
+            "d": "Precipitação"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "O que é um herbívoro?",
+          "opcoes": {
+            "a": "Animal que come carne",
+            "b": "Animal que come plantas",
+            "c": "Animal que come ambos",
+            "d": "Animal que se alimenta de detritos"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o principal componente dos oceanos?",
+          "opcoes": {
+            "a": "Água doce",
+            "b": "Água salgada",
+            "c": "Gelo",
+            "d": "Petróleo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é a tectônica de placas?",
+          "opcoes": {
+            "a": "Movimento das placas da crosta terrestre",
+            "b": "Formação de nuvens",
+            "c": "Erosão costeira",
+            "d": "Ciclo da água"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de formação de petróleo a partir de matéria orgânica?",
+          "opcoes": {
+            "a": "Metamorfismo",
+            "b": "Fossilização",
+            "c": "Diagênese e transformação geológica",
+            "d": "Erosão"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é a função dos estômatos nas folhas das plantas?",
+          "opcoes": {
+            "a": "Produzir clorofila",
+            "b": "Troca gasosa e transpiração",
+            "c": "Armazenar água",
+            "d": "Absorver nutrientes do solo"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do maior ecossistema de água doce do mundo em volume?",
+          "opcoes": {
+            "a": "Lago Superior",
+            "b": "Lago Baikal",
+            "c": "Lago Vitória",
+            "d": "Lago Tanganica"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é a biodiversidade funcional?",
+          "opcoes": {
+            "a": "Número de espécies apenas",
+            "b": "Variedade de funções ecológicas desempenhadas por espécies",
+            "c": "Quantidade de biomassa",
+            "d": "Área de um ecossistema"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o principal gás responsável pelo efeito estufa natural?",
+          "opcoes": {
+            "a": "Nitrogênio",
+            "b": "Dióxido de carbono",
+            "c": "Hélio",
+            "d": "Argônio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um bioma?",
+          "opcoes": {
+            "a": "Pequena comunidade de bactérias",
+            "b": "Grande área com clima e comunidades biológicas semelhantes",
+            "c": "Tipo de solo",
+            "d": "Formação rochosa"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o processo que transforma matéria orgânica em húmus?",
+          "opcoes": {
+            "a": "Fotossíntese",
+            "b": "Decomposição",
+            "c": "Combustão",
+            "d": "Evaporação"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do fenômeno em que a água do mar sobe e desce periodicamente?",
+          "opcoes": {
+            "a": "Corrente marinha",
+            "b": "Maré",
+            "c": "Tsunami",
+            "d": "Ondulação"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um polinizador?",
+          "opcoes": {
+            "a": "Inseto que come folhas",
+            "b": "Organismo que transfere pólen entre flores",
+            "c": "Fungos decompositores",
+            "d": "Planta carnívora"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a camada da atmosfera onde ocorrem os fenômenos meteorológicos?",
+          "opcoes": {
+            "a": "Estratosfera",
+            "b": "Troposfera",
+            "c": "Mesosfera",
+            "d": "Termosfera"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é a salinidade?",
+          "opcoes": {
+            "a": "Quantidade de sal na água",
+            "b": "Temperatura da água",
+            "c": "Profundidade do oceano",
+            "d": "Velocidade das correntes"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o processo que forma cavernas de calcário?",
+          "opcoes": {
+            "a": "Erosão por vento",
+            "b": "Dissolução química por água ácida",
+            "c": "Atividade vulcânica",
+            "d": "Sedimentação"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo pelo qual as plantas convertem luz em energia química?",
+          "opcoes": {
+            "a": "Respiração celular",
+            "b": "Fotossíntese",
+            "c": "Fermentação",
+            "d": "Quimiossíntese"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um organismo decompositor?",
+          "opcoes": {
+            "a": "Produtor primário",
+            "b": "Organismo que quebra matéria orgânica morta",
+            "c": "Predador de topo",
+            "d": "Parasita"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a principal causa do aquecimento global antropogênico?",
+          "opcoes": {
+            "a": "Atividade solar",
+            "b": "Emissão de gases de efeito estufa por atividades humanas",
+            "c": "Movimentos tectônicos",
+            "d": "Erosão natural"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é a zona fótica em oceanografia?",
+          "opcoes": {
+            "a": "Região sem luz",
+            "b": "Região iluminada onde ocorre fotossíntese",
+            "c": "Fundo oceânico",
+            "d": "Zona de maré baixa"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de formação de chuva ácida?",
+          "opcoes": {
+            "a": "Emissão de óxidos de nitrogênio e enxofre que se transformam em ácidos na atmosfera",
+            "b": "Evaporação intensa",
+            "c": "Aumento de poeira no ar",
+            "d": "Resfriamento global"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "tema": "Ciências Naturais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do maior predador terrestre atual?",
+          "opcoes": {
+            "a": "Leão",
+            "b": "Urso-polar",
+            "c": "Tigre",
+            "d": "Hipopótamo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um habitat?",
+          "opcoes": {
+            "a": "Lugar onde uma espécie vive e encontra recursos necessários",
+            "b": "Apenas a comida de uma espécie",
+            "c": "Apenas a água disponível",
+            "d": "Apenas a temperatura média"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o processo de formação de carvão vegetal?",
+          "opcoes": {
+            "a": "Compactação de sedimentos marinhos",
+            "b": "Transformação de matéria vegetal enterrada sob pressão e calor",
+            "c": "Resfriamento de lava",
+            "d": "Erosão de rochas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é a camada de permafrost?",
+          "opcoes": {
+            "a": "Solo permanentemente congelado em regiões frias",
+            "b": "Camada de rochas derretidas",
+            "c": "Camada de areia do deserto",
+            "d": "Camada de vegetação tropical"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o principal componente do petróleo bruto?",
+          "opcoes": {
+            "a": "Carboidratos",
+            "b": "Hidrocarbonetos",
+            "c": "Proteínas",
+            "d": "Minerais"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual país tem a maior população do mundo?",
+          "opcoes": {
+            "a": "Índia",
+            "b": "China",
+            "c": "Estados Unidos",
+            "d": "Indonésia"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a capital do México?",
+          "opcoes": {
+            "a": "Guadalajara",
+            "b": "Monterrey",
+            "c": "Cidade do México",
+            "d": "Puebla"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que continente fica a Nova Zelândia?",
+          "opcoes": {
+            "a": "Ásia",
+            "b": "Oceania",
+            "c": "América do Sul",
+            "d": "África"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a cadeia de montanhas mais longa do mundo?",
+          "opcoes": {
+            "a": "Alpes",
+            "b": "Andes",
+            "c": "Himalaia",
+            "d": "Montanhas Rochosas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país é atravessado pela linha do Equador?",
+          "opcoes": {
+            "a": "Espanha",
+            "b": "Brasil",
+            "c": "Canadá",
+            "d": "Japão"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da China?",
+          "opcoes": {
+            "a": "Xangai",
+            "b": "Pequim",
+            "c": "Hong Kong",
+            "d": "Guangzhou"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior deserto quente do mundo?",
+          "opcoes": {
+            "a": "Gobi",
+            "b": "Saara",
+            "c": "Kalahari",
+            "d": "Atacama"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do mundo por número de ilhas?",
+          "opcoes": {
+            "a": "Filipinas",
+            "b": "Indonésia",
+            "c": "Japão",
+            "d": "Maldivas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o país com mais fronteiras terrestres?",
+          "opcoes": {
+            "a": "Rússia",
+            "b": "China",
+            "c": "Brasil",
+            "d": "Alemanha"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o maior estado dos EUA em área?",
+          "opcoes": {
+            "a": "Texas",
+            "b": "Califórnia",
+            "c": "Alasca",
+            "d": "Montana"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da África do Sul (uma das capitais administrativas)?",
+          "opcoes": {
+            "a": "Joanesburgo",
+            "b": "Cidade do Cabo",
+            "c": "Pretória",
+            "d": "Durban"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago de ilhas tropicais no Caribe?",
+          "opcoes": {
+            "a": "Bahamas",
+            "b": "Antilhas",
+            "c": "Ilhas Virgens",
+            "d": "Ilhas Cayman"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do estreito entre a Europa e a África que liga o Atlântico ao Mediterrâneo?",
+          "opcoes": {
+            "a": "Estreito de Bering",
+            "b": "Estreito de Gibraltar",
+            "c": "Canal da Mancha",
+            "d": "Estreito de Malaca"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país tem a maior extensão de floresta tropical?",
+          "opcoes": {
+            "a": "Congo",
+            "b": "Brasil",
+            "c": "Indonésia",
+            "d": "Peru"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Turquia?",
+          "opcoes": {
+            "a": "Istambul",
+            "b": "Ancara",
+            "c": "Izmir",
+            "d": "Antalya"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital do Canadá?",
+          "opcoes": {
+            "a": "Toronto",
+            "b": "Ottawa",
+            "c": "Vancouver",
+            "d": "Montreal"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do mundo por área terrestre?",
+          "opcoes": {
+            "a": "Indonésia",
+            "b": "Filipinas",
+            "c": "Malásia",
+            "d": "Japão"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do maior planalto do mundo?",
+          "opcoes": {
+            "a": "Planalto do Tibete",
+            "b": "Planalto Central",
+            "c": "Planalto de Colorado",
+            "d": "Planalto Brasileiro"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o maior golfo do mundo?",
+          "opcoes": {
+            "a": "Golfo do México",
+            "b": "Golfo Pérsico",
+            "c": "Golfo de Bengala",
+            "d": "Golfo da Guiné"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é a capital da Argentina?",
+          "opcoes": {
+            "a": "Córdoba",
+            "b": "Buenos Aires",
+            "c": "Rosário",
+            "d": "Mendoza"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o país mais populoso da África?",
+          "opcoes": {
+            "a": "Egito",
+            "b": "Nigéria",
+            "c": "África do Sul",
+            "d": "Etiópia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital do Egito?",
+          "opcoes": {
+            "a": "Alexandria",
+            "b": "Cairo",
+            "c": "Luxor",
+            "d": "Aswan"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do Pacífico?",
+          "opcoes": {
+            "a": "Polinésia",
+            "b": "Melanésia",
+            "c": "Micronésia",
+            "d": "Havaí"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do maior rio da Europa?",
+          "opcoes": {
+            "a": "Danúbio",
+            "b": "Volga",
+            "c": "Reno",
+            "d": "Sena"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país tem a maior extensão de tundra?",
+          "opcoes": {
+            "a": "Canadá",
+            "b": "Rússia",
+            "c": "Noruega",
+            "d": "Finlândia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital do Japão?",
+          "opcoes": {
+            "a": "Osaka",
+            "b": "Tóquio",
+            "c": "Kyoto",
+            "d": "Hiroshima"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do Mediterrâneo?",
+          "opcoes": {
+            "a": "Ilhas Gregas",
+            "b": "Ilhas Baleares",
+            "c": "Sardenha",
+            "d": "Sicília"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do mar entre a Arábia Saudita e o Irã?",
+          "opcoes": {
+            "a": "Mar Vermelho",
+            "b": "Golfo Pérsico",
+            "c": "Mar Cáspio",
+            "d": "Mar de Omã"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Austrália?",
+          "opcoes": {
+            "a": "Sydney",
+            "b": "Melbourne",
+            "c": "Canberra",
+            "d": "Perth"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual país tem a maior área de floresta boreal?",
+          "opcoes": {
+            "a": "Canadá",
+            "b": "Rússia",
+            "c": "Suécia",
+            "d": "Finlândia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da Noruega?",
+          "opcoes": {
+            "a": "Bergen",
+            "b": "Oslo",
+            "c": "Trondheim",
+            "d": "Stavanger"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do maior arquipélago do Ártico?",
+          "opcoes": {
+            "a": "Svalbard",
+            "b": "Ilhas Faroe",
+            "c": "Ilhas Aleutas",
+            "d": "Ilhas Shetland"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o maior lago da África?",
+          "opcoes": {
+            "a": "Lago Vitória",
+            "b": "Lago Tanganica",
+            "c": "Lago Malawi",
+            "d": "Lago Chad"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a capital da Suíça?",
+          "opcoes": {
+            "a": "Zurique",
+            "b": "Genebra",
+            "c": "Berna",
+            "d": "Basileia"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o ponto mais alto da África?",
+          "opcoes": {
+            "a": "Monte Quênia",
+            "b": "Kilimanjaro",
+            "c": "Atlas",
+            "d": "Drakensberg"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da Índia?",
+          "opcoes": {
+            "a": "Mumbai",
+            "b": "Nova Délhi",
+            "c": "Kolkata",
+            "d": "Chennai"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do Atlântico Norte?",
+          "opcoes": {
+            "a": "Ilhas Britânicas",
+            "b": "Ilhas Faroé",
+            "c": "Ilhas Açores",
+            "d": "Ilhas Svalbard"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do estreito que separa a Rússia dos Estados Unidos no extremo norte?",
+          "opcoes": {
+            "a": "Estreito de Bering",
+            "b": "Estreito de Magalhães",
+            "c": "Estreito de Gibraltar",
+            "d": "Estreito de Malaca"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a capital da Coreia do Sul?",
+          "opcoes": {
+            "a": "Busan",
+            "b": "Seul",
+            "c": "Incheon",
+            "d": "Daegu"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do Caribe por área?",
+          "opcoes": {
+            "a": "Cuba",
+            "b": "Jamaica",
+            "c": "Bahamas",
+            "d": "Hispaniola"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da Indonésia?",
+          "opcoes": {
+            "a": "Surabaya",
+            "b": "Jacarta",
+            "c": "Bali",
+            "d": "Medan"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior país da Oceania em área?",
+          "opcoes": {
+            "a": "Nova Zelândia",
+            "b": "Papua Nova Guiné",
+            "c": "Austrália",
+            "d": "Fiji"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o nome do maior cânion do mundo por profundidade?",
+          "opcoes": {
+            "a": "Grand Canyon",
+            "b": "Cânion de Yarlung Tsangpo",
+            "c": "Fish River Canyon",
+            "d": "Cañón del Colca"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital do Vietnã?",
+          "opcoes": {
+            "a": "Ho Chi Minh",
+            "b": "Hanói",
+            "c": "Da Nang",
+            "d": "Nha Trang"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do Sudeste Asiático?",
+          "opcoes": {
+            "a": "Filipinas",
+            "b": "Indonésia",
+            "c": "Malásia",
+            "d": "Tailândia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "tema": "Geografia Mundial",
+      "perguntas": [
+        {
+          "pergunta": "Qual é a capital da Grécia?",
+          "opcoes": {
+            "a": "Atenas",
+            "b": "Tessalônica",
+            "c": "Patras",
+            "d": "Heraclião"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o maior país da América Central em área?",
+          "opcoes": {
+            "a": "Guatemala",
+            "b": "Honduras",
+            "c": "Nicarágua",
+            "d": "Panamá"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Qual é o nome do mar entre a Itália e a Grécia?",
+          "opcoes": {
+            "a": "Mar Adriático",
+            "b": "Mar Jônico",
+            "c": "Mar Egeu",
+            "d": "Mar Tirreno"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a capital da Polônia?",
+          "opcoes": {
+            "a": "Cracóvia",
+            "b": "Varsóvia",
+            "c": "Gdańsk",
+            "d": "Wrocław"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o maior arquipélago do mundo em número de ilhas habitadas?",
+          "opcoes": {
+            "a": "Indonésia",
+            "b": "Filipinas",
+            "c": "Japão",
+            "d": "Maldivas"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Em que ano foram realizados os primeiros Jogos Olímpicos modernos?",
+          "opcoes": {
+            "a": "1896",
+            "b": "1900",
+            "c": "1912",
+            "d": "1920"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual esporte combina esgrima, natação, hipismo, tiro e corrida?",
+          "opcoes": {
+            "a": "Pentatlo moderno",
+            "b": "Decatlo",
+            "c": "Heptatlo",
+            "d": "Triatlo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quantas medalhas de ouro um atleta recebe por vitória individual em uma prova olímpica?",
+          "opcoes": {
+            "a": "Uma",
+            "b": "Duas",
+            "c": "Três",
+            "d": "Nenhuma"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que cidade foram realizados os Jogos Olímpicos de 2008?",
+          "opcoes": {
+            "a": "Atenas",
+            "b": "Pequim",
+            "c": "Londres",
+            "d": "Sydney"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual país tradicionalmente domina o quadro de medalhas em natação?",
+          "opcoes": {
+            "a": "Austrália",
+            "b": "Estados Unidos",
+            "c": "China",
+            "d": "Rússia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica salto com vara?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Ginástica",
+            "c": "Saltos ornamentais",
+            "d": "Halterofilismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um barco de oito remadores?",
+          "opcoes": {
+            "a": "Canoagem",
+            "b": "Remo",
+            "c": "Vela",
+            "d": "Natação sincronizada"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a distância da maratona olímpica tradicional?",
+          "opcoes": {
+            "a": "26,2 km",
+            "b": "21,1 km",
+            "c": "10 km",
+            "d": "42,195 km"
+          },
+          "resposta_correta": "d"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma espada, florete ou sabre?",
+          "opcoes": {
+            "a": "Esgrima",
+            "b": "Judô",
+            "c": "Taekwondo",
+            "d": "Boxe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de Inverno de 2014?",
+          "opcoes": {
+            "a": "Canadá",
+            "b": "Rússia",
+            "c": "Noruega",
+            "d": "Japão"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se realiza salto triplo?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Ginástica artística",
+            "c": "Saltos ornamentais",
+            "d": "Halterofilismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que modalidade olímpica se usa uma bicicleta de pista?",
+          "opcoes": {
+            "a": "Ciclismo de estrada",
+            "b": "Ciclismo de pista",
+            "c": "Mountain bike",
+            "d": "BMX"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do evento de ginástica com aparelhos como argolas e barras?",
+          "opcoes": {
+            "a": "Ginástica rítmica",
+            "b": "Ginástica artística",
+            "c": "Ginástica acrobática",
+            "d": "Trampolim"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um tatame e se busca imobilizar o adversário?",
+          "opcoes": {
+            "a": "Judô",
+            "b": "Boxe",
+            "c": "Esgrima",
+            "d": "Halterofilismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 2012?",
+          "opcoes": {
+            "a": "China",
+            "b": "Reino Unido",
+            "c": "Brasil",
+            "d": "Grécia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica salto em altura?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Ginástica",
+            "c": "Saltos ornamentais",
+            "d": "Vela"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma raquete e uma peteca?",
+          "opcoes": {
+            "a": "Tênis",
+            "b": "Badminton",
+            "c": "Tênis de mesa",
+            "d": "Squash"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a distância padrão de uma prova olímpica de natação estilo livre curta?",
+          "opcoes": {
+            "a": "50 m",
+            "b": "100 m",
+            "c": "200 m",
+            "d": "400 m"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um tatame e se pontua com golpes e chaves?",
+          "opcoes": {
+            "a": "Judô",
+            "b": "Taekwondo",
+            "c": "Boxe",
+            "d": "Luta livre"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 2016?",
+          "opcoes": {
+            "a": "China",
+            "b": "Brasil",
+            "c": "Reino Unido",
+            "d": "Rússia"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica arremesso de peso?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Halterofilismo",
+            "c": "Lançamento de disco",
+            "d": "Salto em distância"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um barco a vela?",
+          "opcoes": {
+            "a": "Canoagem",
+            "b": "Vela",
+            "c": "Remo",
+            "d": "Natação"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a modalidade olímpica que envolve ginástica com fita e bola?",
+          "opcoes": {
+            "a": "Ginástica artística",
+            "b": "Ginástica rítmica",
+            "c": "Trampolim",
+            "d": "Acrobacia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um ringue e luvas?",
+          "opcoes": {
+            "a": "Boxe",
+            "b": "Judô",
+            "c": "Luta greco-romana",
+            "d": "Taekwondo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 2000?",
+          "opcoes": {
+            "a": "Austrália",
+            "b": "Grécia",
+            "c": "Estados Unidos",
+            "d": "Japão"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica salto em distância?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Ginástica",
+            "c": "Saltos ornamentais",
+            "d": "Halterofilismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um arco e flechas?",
+          "opcoes": {
+            "a": "Tiro com arco",
+            "b": "Pentatlo moderno",
+            "c": "Tiro esportivo",
+            "d": "Biatlo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a prova de ciclismo em que os atletas correm em estrada longa?",
+          "opcoes": {
+            "a": "Ciclismo de pista",
+            "b": "Ciclismo de estrada",
+            "c": "BMX",
+            "d": "Mountain bike"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma prancha e remos?",
+          "opcoes": {
+            "a": "Canoagem",
+            "b": "Remo",
+            "c": "Vela",
+            "d": "Surf (adicionado recentemente)"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 1996?",
+          "opcoes": {
+            "a": "Estados Unidos",
+            "b": "Espanha",
+            "c": "Austrália",
+            "d": "França"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica salto ornamentais em plataformas?",
+          "opcoes": {
+            "a": "Nado sincronizado",
+            "b": "Saltos ornamentais",
+            "c": "Ginástica artística",
+            "d": "Trampolim"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um tatame e se busca derrubar o adversário com técnicas de luta?",
+          "opcoes": {
+            "a": "Judô",
+            "b": "Luta greco-romana",
+            "c": "Taekwondo",
+            "d": "Boxe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a distância de uma prova olímpica de 10 km em águas abertas?",
+          "opcoes": {
+            "a": "5 km",
+            "b": "10 km",
+            "c": "15 km",
+            "d": "20 km"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma raquete e uma bola pequena sobre uma mesa?",
+          "opcoes": {
+            "a": "Tênis de mesa",
+            "b": "Badminton",
+            "c": "Squash",
+            "d": "Tênis"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 1984?",
+          "opcoes": {
+            "a": "Estados Unidos",
+            "b": "União Soviética",
+            "c": "Reino Unido",
+            "d": "Canadá"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica salto com esquiadores em rampas?",
+          "opcoes": {
+            "a": "Esqui alpino",
+            "b": "Salto de esqui",
+            "c": "Snowboard",
+            "d": "Biatlo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma bicicleta em terreno acidentado?",
+          "opcoes": {
+            "a": "Ciclismo de pista",
+            "b": "Mountain bike",
+            "c": "BMX",
+            "d": "Ciclismo de estrada"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a modalidade olímpica que combina corrida, ciclismo e natação?",
+          "opcoes": {
+            "a": "Triatlo",
+            "b": "Pentatlo moderno",
+            "c": "Decatlo",
+            "d": "Heptatlo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma bola e se joga em uma quadra com rede alta?",
+          "opcoes": {
+            "a": "Voleibol",
+            "b": "Basquete",
+            "c": "Handebol",
+            "d": "Futebol"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 1976?",
+          "opcoes": {
+            "a": "Canadá",
+            "b": "Alemanha",
+            "c": "Japão",
+            "d": "México"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica levantamento de peso competitivo?",
+          "opcoes": {
+            "a": "Halterofilismo",
+            "b": "Atletismo",
+            "c": "Ginástica",
+            "d": "Luta"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma prancha de surfe?",
+          "opcoes": {
+            "a": "Vela",
+            "b": "Surf",
+            "c": "Remo",
+            "d": "Canoagem"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a modalidade olímpica que envolve corrida de obstáculos e saltos?",
+          "opcoes": {
+            "a": "Decatlo",
+            "b": "Heptatlo",
+            "c": "Atletismo (provas de obstáculos)",
+            "d": "Triatlo"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa uma bola e cestas elevadas?",
+          "opcoes": {
+            "a": "Basquete",
+            "b": "Handebol",
+            "c": "Voleibol",
+            "d": "Polo aquático"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 1968?",
+          "opcoes": {
+            "a": "México",
+            "b": "Japão",
+            "c": "Alemanha",
+            "d": "Estados Unidos"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "tema": "Esportes Olímpicos",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o esporte em que se pratica corrida de revezamento 4x100 m?",
+          "opcoes": {
+            "a": "Atletismo",
+            "b": "Natação",
+            "c": "Ciclismo",
+            "d": "Remo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um barco a remo individual?",
+          "opcoes": {
+            "a": "Canoagem",
+            "b": "Remo",
+            "c": "Vela",
+            "d": "Surf"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a prova feminina de ginástica rítmica que usa fita?",
+          "opcoes": {
+            "a": "Solo",
+            "b": "Conjunto com fita",
+            "c": "Trampolim",
+            "d": "Argolas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Em que esporte olímpico se usa um tatame e se pontua com chutes e socos controlados?",
+          "opcoes": {
+            "a": "Taekwondo",
+            "b": "Judô",
+            "c": "Boxe",
+            "d": "Luta livre"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país sediou os Jogos Olímpicos de 1964?",
+          "opcoes": {
+            "a": "Japão",
+            "b": "México",
+            "c": "Itália",
+            "d": "Reino Unido"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual técnica artística usa pigmento misturado com óleo?",
+          "opcoes": {
+            "a": "Aquarela",
+            "b": "Óleo sobre tela",
+            "c": "Pastel",
+            "d": "Fresco"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem pintou “Guernica”?",
+          "opcoes": {
+            "a": "Pablo Picasso",
+            "b": "Salvador Dalí",
+            "c": "Joan Miró",
+            "d": "Diego Rivera"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual movimento artístico valorizou a luz e a cor no final do século XIX?",
+          "opcoes": {
+            "a": "Cubismo",
+            "b": "Impressionismo",
+            "c": "Surrealismo",
+            "d": "Barroco"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um mural?",
+          "opcoes": {
+            "a": "Pequena escultura",
+            "b": "Pintura feita diretamente em parede grande",
+            "c": "Gravura em metal",
+            "d": "Pintura em miniatura"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual material é tradicionalmente usado em esculturas clássicas europeias?",
+          "opcoes": {
+            "a": "Madeira",
+            "b": "Mármore",
+            "c": "Plástico",
+            "d": "Vidro"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual artista é famoso por cortar a própria orelha?",
+          "opcoes": {
+            "a": "Claude Monet",
+            "b": "Vincent van Gogh",
+            "c": "Paul Cézanne",
+            "d": "Henri Matisse"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é serigrafia?",
+          "opcoes": {
+            "a": "Técnica de escultura",
+            "b": "Técnica de impressão por tela",
+            "c": "Técnica de pintura a óleo",
+            "d": "Técnica de gravura em madeira"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual movimento artístico é associado a formas geométricas e fragmentação?",
+          "opcoes": {
+            "a": "Cubismo",
+            "b": "Impressionismo",
+            "c": "Romantismo",
+            "d": "Realismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem pintou “A Última Ceia”?",
+          "opcoes": {
+            "a": "Rafael",
+            "b": "Leonardo da Vinci",
+            "c": "Michelangelo",
+            "d": "Caravaggio"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do famoso museu em Paris que abriga a Mona Lisa?",
+          "opcoes": {
+            "a": "Musée d’Orsay",
+            "b": "Louvre",
+            "c": "Centre Pompidou",
+            "d": "Musée Rodin"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual técnica usa pigmento em pó misturado com água e aplicado em gesso úmido?",
+          "opcoes": {
+            "a": "Aquarela",
+            "b": "Fresco",
+            "c": "Óleo",
+            "d": "Acrílico"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por esculturas como “O Pensador”?",
+          "opcoes": {
+            "a": "Auguste Rodin",
+            "b": "Donatello",
+            "c": "Michelangelo",
+            "d": "Bernini"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do movimento artístico que surgiu na Itália no século XVI com dramaticidade e ornamentação?",
+          "opcoes": {
+            "a": "Barroco",
+            "b": "Rococó",
+            "c": "Neoclassicismo",
+            "d": "Romantismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é uma gravura?",
+          "opcoes": {
+            "a": "Pintura em tela",
+            "b": "Impressão feita a partir de uma matriz",
+            "c": "Escultura em bronze",
+            "d": "Desenho a lápis"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual artista é associado ao expressionismo alemão?",
+          "opcoes": {
+            "a": "Edvard Munch",
+            "b": "Wassily Kandinsky",
+            "c": "Ernst Ludwig Kirchner",
+            "d": "Paul Klee"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo de restauração de pinturas antigas?",
+          "opcoes": {
+            "a": "Conservação e restauração",
+            "b": "Renovação artística",
+            "c": "Recriação",
+            "d": "Reimpressão"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem pintou “A Persistência da Memória”?",
+          "opcoes": {
+            "a": "Salvador Dalí",
+            "b": "René Magritte",
+            "c": "Max Ernst",
+            "d": "Giorgio de Chirico"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é arte conceitual?",
+          "opcoes": {
+            "a": "Arte focada na ideia mais que no objeto final",
+            "b": "Arte exclusivamente decorativa",
+            "c": "Arte tradicional de retratos",
+            "d": "Arte feita apenas com materiais naturais"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o nome do movimento que valorizou a abstração geométrica no início do século XX?",
+          "opcoes": {
+            "a": "Futurismo",
+            "b": "Construtivismo",
+            "c": "Romantismo",
+            "d": "Realismo"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual artista é famoso por suas latas de sopa Campbell?",
+          "opcoes": {
+            "a": "Roy Lichtenstein",
+            "b": "Andy Warhol",
+            "c": "Jasper Johns",
+            "d": "Robert Rauschenberg"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "O que é um autorretrato?",
+          "opcoes": {
+            "a": "Retrato de outra pessoa",
+            "b": "Retrato feito pelo próprio artista",
+            "c": "Retrato em grupo",
+            "d": "Retrato abstrato"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual técnica usa pigmentos solúveis em água aplicados em papel?",
+          "opcoes": {
+            "a": "Óleo",
+            "b": "Aquarela",
+            "c": "Pastel",
+            "d": "Acrílico"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem foi um dos principais artistas do movimento pop art?",
+          "opcoes": {
+            "a": "Jackson Pollock",
+            "b": "Andy Warhol",
+            "c": "Mark Rothko",
+            "d": "Piet Mondrian"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "O que é um curador?",
+          "opcoes": {
+            "a": "Artista plástico",
+            "b": "Profissional que organiza exposições e cuida de coleções",
+            "c": "Crítico musical",
+            "d": "Restaurador de filmes"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do famoso museu de arte moderna em Nova York com obras de Picasso e Van Gogh?",
+          "opcoes": {
+            "a": "MoMA",
+            "b": "Guggenheim",
+            "c": "MET",
+            "d": "Whitney"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o estilo caracterizado por pinceladas soltas e ênfase na luz?",
+          "opcoes": {
+            "a": "Impressionismo",
+            "b": "Cubismo",
+            "c": "Surrealismo",
+            "d": "Barroco"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem pintou “Les Demoiselles d’Avignon”?",
+          "opcoes": {
+            "a": "Pablo Picasso",
+            "b": "Henri Matisse",
+            "c": "Georges Braque",
+            "d": "Salvador Dalí"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é um portfólio artístico?",
+          "opcoes": {
+            "a": "Coleção de obras e projetos de um artista",
+            "b": "Catálogo de museu",
+            "c": "Lista de materiais de arte",
+            "d": "Agenda de exposições"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual técnica usa camadas rápidas de tinta acrílica para secagem rápida?",
+          "opcoes": {
+            "a": "Óleo",
+            "b": "Aquarela",
+            "c": "Acrílico",
+            "d": "Fresco"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Quem é conhecido por pinturas de grandes campos de cor abstrata?",
+          "opcoes": {
+            "a": "Mark Rothko",
+            "b": "Claude Monet",
+            "c": "Paul Cézanne",
+            "d": "Diego Rivera"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do movimento artístico que enfatiza o gesto e a ação do pintar?",
+          "opcoes": {
+            "a": "Expressionismo abstrato",
+            "b": "Surrealismo",
+            "c": "Neoclassicismo",
+            "d": "Romantismo"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem foi um importante artista do expressionismo abstrato americano?",
+          "opcoes": {
+            "a": "Jackson Pollock",
+            "b": "Andy Warhol",
+            "c": "Roy Lichtenstein",
+            "d": "Jasper Johns"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é uma instalação artística?",
+          "opcoes": {
+            "a": "Pintura em tela",
+            "b": "Obra tridimensional criada para um espaço específico",
+            "c": "Escultura em bronze",
+            "d": "Gravura em metal"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o nome do processo de impressão que usa uma placa de metal gravada?",
+          "opcoes": {
+            "a": "Litografia",
+            "b": "Xilogravura",
+            "c": "Gravura em metal (água-forte)",
+            "d": "Serigrafia"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Quem pintou “A Ronda Noturna”?",
+          "opcoes": {
+            "a": "Rembrandt",
+            "b": "Vermeer",
+            "c": "Van Gogh",
+            "d": "Rubens"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o termo para arte feita com materiais encontrados e objetos do cotidiano?",
+          "opcoes": {
+            "a": "Arte conceitual",
+            "b": "Arte povera",
+            "c": "Assemblage / Arte encontrada",
+            "d": "Minimalismo"
+          },
+          "resposta_correta": "c"
+        },
+        {
+          "pergunta": "Quem foi um artista-chave do movimento Dada?",
+          "opcoes": {
+            "a": "Marcel Duchamp",
+            "b": "Pablo Picasso",
+            "c": "Salvador Dalí",
+            "d": "Henri Matisse"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é minimalismo na arte?",
+          "opcoes": {
+            "a": "Excesso de ornamentos",
+            "b": "Simplicidade e redução ao essencial",
+            "c": "Uso intenso de cores",
+            "d": "Narrativa complexa"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual técnica de impressão usa pedra calcária?",
+          "opcoes": {
+            "a": "Xilogravura",
+            "b": "Litografia",
+            "c": "Serigrafia",
+            "d": "Gravura em metal"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem pintou “A Escola de Atenas”?",
+          "opcoes": {
+            "a": "Rafael",
+            "b": "Michelangelo",
+            "c": "Leonardo da Vinci",
+            "d": "Donatello"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do movimento que valorizou a cultura popular e imagens de consumo?",
+          "opcoes": {
+            "a": "Pop Art",
+            "b": "Surrealismo",
+            "c": "Impressionismo",
+            "d": "Barroco"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem criou a obra “Fountain” (um urinol assinado)?",
+          "opcoes": {
+            "a": "Marcel Duchamp",
+            "b": "Andy Warhol",
+            "c": "Joseph Beuys",
+            "d": "Damien Hirst"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é performance art?",
+          "opcoes": {
+            "a": "Exposição de pinturas",
+            "b": "Ação artística ao vivo envolvendo o corpo e o tempo",
+            "c": "Escultura pública",
+            "d": "Fotografia documental"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o termo para a arte que usa luz como meio principal?",
+          "opcoes": {
+            "a": "Arte sonora",
+            "b": "Arte luminosa / Light art",
+            "c": "Arte têxtil",
+            "d": "Arte gráfica"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por esculturas de grandes animais em bronze e aço?",
+          "opcoes": {
+            "a": "Jeff Koons",
+            "b": "Anish Kapoor",
+            "c": "Fernando Botero",
+            "d": "Antony Gormley"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "tema": "Artes Visuais",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do processo de impressão em que se usa uma matriz de madeira?",
+          "opcoes": {
+            "a": "Xilogravura",
+            "b": "Litografia",
+            "c": "Serigrafia",
+            "d": "Gravura em metal"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem pintou “A Noite Estrelada sobre o Ródano”?",
+          "opcoes": {
+            "a": "Vincent van Gogh",
+            "b": "Claude Monet",
+            "c": "Paul Cézanne",
+            "d": "Pierre-Auguste Renoir"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "O que é um retrato?",
+          "opcoes": {
+            "a": "Paisagem natural",
+            "b": "Representação de uma pessoa ou grupo",
+            "c": "Abstração geométrica",
+            "d": "Natureza morta"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o termo para arte que critica a sociedade e a política?",
+          "opcoes": {
+            "a": "Arte decorativa",
+            "b": "Arte engajada / Arte política",
+            "c": "Arte contemplativa",
+            "d": "Arte comercial"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por esculturas volumosas e figuras arredondadas?",
+          "opcoes": {
+            "a": "Henry Moore",
+            "b": "Fernando Botero",
+            "c": "Auguste Rodin",
+            "d": "Constantin Brâncuși"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Guerra e Paz”?",
+          "opcoes": {
+            "a": "Fiódor Dostoiévski",
+            "b": "Lev Tolstói",
+            "c": "Anton Tchekhov",
+            "d": "Aleksandr Pushkin"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é a obra épica atribuída a Homero?",
+          "opcoes": {
+            "a": "A Eneida",
+            "b": "A Odisséia",
+            "c": "A Divina Comédia",
+            "d": "Os Lusíadas"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “Orgulho e Preconceito”?",
+          "opcoes": {
+            "a": "Charlotte Brontë",
+            "b": "Jane Austen",
+            "c": "Mary Shelley",
+            "d": "Emily Brontë"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual autor é conhecido por “Crime e Castigo”?",
+          "opcoes": {
+            "a": "Lev Tolstói",
+            "b": "Fiódor Dostoiévski",
+            "c": "Anton Tchekhov",
+            "d": "Nikolai Gogol"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “A Divina Comédia”?",
+          "opcoes": {
+            "a": "Petrarca",
+            "b": "Dante Alighieri",
+            "c": "Boccaccio",
+            "d": "Ariosto"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Os Lusíadas”?",
+          "opcoes": {
+            "a": "Luís de Camões",
+            "b": "Fernando Pessoa",
+            "c": "Eça de Queirós",
+            "d": "Gil Vicente"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a obra de Shakespeare que trata de um príncipe da Dinamarca?",
+          "opcoes": {
+            "a": "Macbeth",
+            "b": "Hamlet",
+            "c": "Othello",
+            "d": "Rei Lear"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “Moby Dick”?",
+          "opcoes": {
+            "a": "Herman Melville",
+            "b": "Mark Twain",
+            "c": "Nathaniel Hawthorne",
+            "d": "Edgar Allan Poe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “Frankenstein”?",
+          "opcoes": {
+            "a": "Mary Shelley",
+            "b": "Bram Stoker",
+            "c": "Robert Louis Stevenson",
+            "d": "H. G. Wells"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “Odisseia”?",
+          "opcoes": {
+            "a": "Homero",
+            "b": "Virgílio",
+            "c": "Sófocles",
+            "d": "Eurípides"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Madame Bovary”?",
+          "opcoes": {
+            "a": "Gustave Flaubert",
+            "b": "Émile Zola",
+            "c": "Victor Hugo",
+            "d": "Honoré de Balzac"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a obra de Cervantes considerada clássica?",
+          "opcoes": {
+            "a": "La Celestina",
+            "b": "Don Quixote",
+            "c": "Lazarillo de Tormes",
+            "d": "El Cid"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “O Retrato de Dorian Gray”?",
+          "opcoes": {
+            "a": "Oscar Wilde",
+            "b": "Bram Stoker",
+            "c": "H. G. Wells",
+            "d": "Arthur Conan Doyle"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual poeta português é conhecido por “Mensagem”?",
+          "opcoes": {
+            "a": "Fernando Pessoa",
+            "b": "Luís de Camões",
+            "c": "José Saramago",
+            "d": "Eça de Queirós"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “As Aventuras de Huckleberry Finn”?",
+          "opcoes": {
+            "a": "Mark Twain",
+            "b": "Louisa May Alcott",
+            "c": "Nathaniel Hawthorne",
+            "d": "Herman Melville"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “O Processo”?",
+          "opcoes": {
+            "a": "Franz Kafka",
+            "b": "Thomas Mann",
+            "c": "Hermann Hesse",
+            "d": "Stefan Zweig"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é a obra de Victor Hugo que se passa em Notre-Dame?",
+          "opcoes": {
+            "a": "Os Miseráveis",
+            "b": "O Corcunda de Notre-Dame",
+            "c": "O Homem que Ri",
+            "d": "O Último Dia de um Condenado"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “A Metamorfose”?",
+          "opcoes": {
+            "a": "Franz Kafka",
+            "b": "Albert Camus",
+            "c": "Jean-Paul Sartre",
+            "d": "André Gide"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “O Senhor dos Anéis”?",
+          "opcoes": {
+            "a": "C. S. Lewis",
+            "b": "J. R. R. Tolkien",
+            "c": "George R. R. Martin",
+            "d": "J. K. Rowling"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “O Retrato de uma Senhora”?",
+          "opcoes": {
+            "a": "Henry James",
+            "b": "Edith Wharton",
+            "c": "Thomas Hardy",
+            "d": "D. H. Lawrence"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Cem Anos de Solidão”?",
+          "opcoes": {
+            "a": "Julio Cortázar",
+            "b": "Gabriel García Márquez",
+            "c": "Mario Vargas Llosa",
+            "d": "Jorge Luis Borges"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o autor argentino conhecido por contos fantásticos e labirínticos?",
+          "opcoes": {
+            "a": "Julio Cortázar",
+            "b": "Jorge Luis Borges",
+            "c": "Adolfo Bioy Casares",
+            "d": "Ricardo Piglia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “O Morro dos Ventos Uivantes”?",
+          "opcoes": {
+            "a": "Emily Brontë",
+            "b": "Charlotte Brontë",
+            "c": "Jane Austen",
+            "d": "Mary Shelley"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “A Ilha do Tesouro”?",
+          "opcoes": {
+            "a": "Robert Louis Stevenson",
+            "b": "Jules Verne",
+            "c": "H. G. Wells",
+            "d": "Daniel Defoe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “O Velho e o Mar”?",
+          "opcoes": {
+            "a": "Ernest Hemingway",
+            "b": "F. Scott Fitzgerald",
+            "c": "John Steinbeck",
+            "d": "William Faulkner"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “O Grande Gatsby”?",
+          "opcoes": {
+            "a": "Ernest Hemingway",
+            "b": "F. Scott Fitzgerald",
+            "c": "John Steinbeck",
+            "d": "William Faulkner"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o autor russo de “Anna Kariênina”?",
+          "opcoes": {
+            "a": "Fiódor Dostoiévski",
+            "b": "Lev Tolstói",
+            "c": "Anton Tchekhov",
+            "d": "Nikolai Gogol"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “O Estrangeiro”?",
+          "opcoes": {
+            "a": "Albert Camus",
+            "b": "Jean-Paul Sartre",
+            "c": "Simone de Beauvoir",
+            "d": "André Gide"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “As Viagens de Gulliver”?",
+          "opcoes": {
+            "a": "Jonathan Swift",
+            "b": "Daniel Defoe",
+            "c": "Samuel Richardson",
+            "d": "Henry Fielding"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “O Nome da Rosa”?",
+          "opcoes": {
+            "a": "Umberto Eco",
+            "b": "Italo Calvino",
+            "c": "Alessandro Manzoni",
+            "d": "Primo Levi"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “A Revolução dos Bichos”?",
+          "opcoes": {
+            "a": "George Orwell",
+            "b": "Aldous Huxley",
+            "c": "Ray Bradbury",
+            "d": "H. G. Wells"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “1984”?",
+          "opcoes": {
+            "a": "Aldous Huxley",
+            "b": "George Orwell",
+            "c": "Ray Bradbury",
+            "d": "Philip K. Dick"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem escreveu “O Apanhador no Campo de Centeio”?",
+          "opcoes": {
+            "a": "J. D. Salinger",
+            "b": "Jack Kerouac",
+            "c": "William S. Burroughs",
+            "d": "John Steinbeck"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “O Senhor das Moscas”?",
+          "opcoes": {
+            "a": "William Golding",
+            "b": "George Orwell",
+            "c": "Aldous Huxley",
+            "d": "C. S. Lewis"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “A Letra Escarlate”?",
+          "opcoes": {
+            "a": "Nathaniel Hawthorne",
+            "b": "Herman Melville",
+            "c": "Mark Twain",
+            "d": "Louisa May Alcott"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “O Processo”?",
+          "opcoes": {
+            "a": "Franz Kafka",
+            "b": "Thomas Mann",
+            "c": "Hermann Hesse",
+            "d": "Stefan Zweig"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “Os Irmãos Karamázov”?",
+          "opcoes": {
+            "a": "Fiódor Dostoiévski",
+            "b": "Lev Tolstói",
+            "c": "Anton Tchekhov",
+            "d": "Nikolai Gogol"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “A Montanha Mágica”?",
+          "opcoes": {
+            "a": "Thomas Mann",
+            "b": "Hermann Hesse",
+            "c": "Franz Kafka",
+            "d": "Stefan Zweig"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “O Retrato de Dorian Gray”?",
+          "opcoes": {
+            "a": "Oscar Wilde",
+            "b": "Bram Stoker",
+            "c": "H. G. Wells",
+            "d": "Arthur Conan Doyle"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “O Senhor das Moscas”?",
+          "opcoes": {
+            "a": "William Golding",
+            "b": "George Orwell",
+            "c": "Aldous Huxley",
+            "d": "C. S. Lewis"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “A Ilha Misteriosa”?",
+          "opcoes": {
+            "a": "Jules Verne",
+            "b": "H. G. Wells",
+            "c": "Robert Louis Stevenson",
+            "d": "Daniel Defoe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “Viagens de Gulliver”?",
+          "opcoes": {
+            "a": "Jonathan Swift",
+            "b": "Daniel Defoe",
+            "c": "Samuel Richardson",
+            "d": "Henry Fielding"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “O Médico e o Monstro”?",
+          "opcoes": {
+            "a": "Robert Louis Stevenson",
+            "b": "Bram Stoker",
+            "c": "Mary Shelley",
+            "d": "H. G. Wells"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “A Letra Escarlate”?",
+          "opcoes": {
+            "a": "Nathaniel Hawthorne",
+            "b": "Herman Melville",
+            "c": "Mark Twain",
+            "d": "Louisa May Alcott"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “O Retrato de Dorian Gray”?",
+          "opcoes": {
+            "a": "Oscar Wilde",
+            "b": "Bram Stoker",
+            "c": "H. G. Wells",
+            "d": "Arthur Conan Doyle"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "tema": "Literatura Clássica",
+      "perguntas": [
+        {
+          "pergunta": "Quem escreveu “Os Maias”?",
+          "opcoes": {
+            "a": "Eça de Queirós",
+            "b": "Fernando Pessoa",
+            "c": "José Saramago",
+            "d": "Camilo Castelo Branco"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “Memórias Póstumas de Brás Cubas”?",
+          "opcoes": {
+            "a": "Machado de Assis",
+            "b": "José de Alencar",
+            "c": "Aluísio Azevedo",
+            "d": "Raul Pompeia"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “Grande Sertão Veredas”?",
+          "opcoes": {
+            "a": "João Guimarães Rosa",
+            "b": "Jorge Amado",
+            "c": "Graciliano Ramos",
+            "d": "Clarice Lispector"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o autor de “O Cortiço”?",
+          "opcoes": {
+            "a": "Aluísio Azevedo",
+            "b": "Machado de Assis",
+            "c": "José de Alencar",
+            "d": "Euclides da Cunha"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem escreveu “A Hora da Estrela”?",
+          "opcoes": {
+            "a": "Clarice Lispector",
+            "b": "Lygia Fagundes Telles",
+            "c": "Rachel de Queiroz",
+            "d": "Cecília Meireles"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Qual diretor é conhecido por filmes como “Pulp Fiction”?",
+          "opcoes": {
+            "a": "Quentin Tarantino",
+            "b": "Martin Scorsese",
+            "c": "Steven Spielberg",
+            "d": "Francis Ford Coppola"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme é dirigido por Federico Fellini e famoso por cenas oníricas?",
+          "opcoes": {
+            "a": "8½",
+            "b": "La Dolce Vita",
+            "c": "Roma",
+            "d": "Amarcord"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual país é berço do cinema de Akira Kurosawa?",
+          "opcoes": {
+            "a": "China",
+            "b": "Japão",
+            "c": "Coreia do Sul",
+            "d": "Índia"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem dirigiu “Cidadão Kane”?",
+          "opcoes": {
+            "a": "Orson Welles",
+            "b": "Alfred Hitchcock",
+            "c": "Billy Wilder",
+            "d": "John Ford"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme italiano ganhou destaque no movimento neorrealista?",
+          "opcoes": {
+            "a": "Roma, Cidade Aberta",
+            "b": "La Dolce Vita",
+            "c": "O Leopardo",
+            "d": "Cinema Paradiso"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Qual diretor é famoso por filmes de suspense como “Psicose”?",
+          "opcoes": {
+            "a": "Alfred Hitchcock",
+            "b": "Stanley Kubrick",
+            "c": "David Lynch",
+            "d": "Roman Polanski"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme francês é conhecido por inaugurar a Nouvelle Vague?",
+          "opcoes": {
+            "a": "Os Incompreendidos (Les Quatre Cents Coups)",
+            "b": "Amélie",
+            "c": "O Fabuloso Destino de Amélie Poulain",
+            "d": "O Último Tango em Paris"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “2001: Uma Odisseia no Espaço”?",
+          "opcoes": {
+            "a": "Stanley Kubrick",
+            "b": "Ridley Scott",
+            "c": "George Lucas",
+            "d": "Steven Spielberg"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor mexicano ganhou destaque com “Roma”?",
+          "opcoes": {
+            "a": "Alejandro González Iñárritu",
+            "b": "Alfonso Cuarón",
+            "c": "Guillermo del Toro",
+            "d": "Luis Buñuel"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual filme argentino ganhou o Oscar de Melhor Filme Estrangeiro em 1986?",
+          "opcoes": {
+            "a": "O Segredo dos Seus Olhos",
+            "b": "O Filho da Noiva",
+            "c": "A História Oficial",
+            "d": "Nove Rainhas"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Qual diretor é conhecido por “O Labirinto do Fauno”?",
+          "opcoes": {
+            "a": "Pedro Almodóvar",
+            "b": "Guillermo del Toro",
+            "c": "Alejandro Amenábar",
+            "d": "Alfonso Cuarón"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual filme britânico é famoso por cenas de espionagem e direção de Alfred Hitchcock?",
+          "opcoes": {
+            "a": "North by Northwest",
+            "b": "The 39 Steps",
+            "c": "The Lady Vanishes",
+            "d": "The Man Who Knew Too Much"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Iluminado”?",
+          "opcoes": {
+            "a": "Stanley Kubrick",
+            "b": "Alfred Hitchcock",
+            "c": "David Lynch",
+            "d": "Roman Polanski"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor italiano é conhecido por “Oito e Meio”?",
+          "opcoes": {
+            "a": "Federico Fellini",
+            "b": "Luchino Visconti",
+            "c": "Michelangelo Antonioni",
+            "d": "Roberto Rossellini"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme sul-coreano ganhou o Oscar de Melhor Filme em 2020?",
+          "opcoes": {
+            "a": "Oldboy",
+            "b": "Parasita",
+            "c": "O Hospedeiro",
+            "d": "Mother"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “A Lista de Schindler”?",
+          "opcoes": {
+            "a": "Steven Spielberg",
+            "b": "Martin Scorsese",
+            "c": "Francis Ford Coppola",
+            "d": "Clint Eastwood"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por filmes como “Blade Runner”?",
+          "opcoes": {
+            "a": "Ridley Scott",
+            "b": "James Cameron",
+            "c": "Christopher Nolan",
+            "d": "Denis Villeneuve"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual filme francês dirigido por Luc Besson é famoso por ação estilizada?",
+          "opcoes": {
+            "a": "O Profissional (Léon)",
+            "b": "Amélie",
+            "c": "O Fabuloso Destino de Amélie Poulain",
+            "d": "O Quarto Verde"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Grande Hotel Budapeste”?",
+          "opcoes": {
+            "a": "Wes Anderson",
+            "b": "Paul Thomas Anderson",
+            "c": "Tim Burton",
+            "d": "Spike Jonze"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor canadense é conhecido por “A Origem”?",
+          "opcoes": {
+            "a": "David Cronenberg",
+            "b": "Denis Villeneuve",
+            "c": "James Cameron",
+            "d": "Christopher Nolan (britânico)"
+          },
+          "resposta_correta": "d"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Qual diretor é conhecido por longas épicos como “Apocalypse Now”?",
+          "opcoes": {
+            "a": "Francis Ford Coppola",
+            "b": "Martin Scorsese",
+            "c": "Steven Spielberg",
+            "d": "Stanley Kubrick"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “Taxi Driver”?",
+          "opcoes": {
+            "a": "Martin Scorsese",
+            "b": "Francis Ford Coppola",
+            "c": "Brian De Palma",
+            "d": "Oliver Stone"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é associado ao cinema expressionista alemão?",
+          "opcoes": {
+            "a": "Fritz Lang",
+            "b": "F. W. Murnau",
+            "c": "Robert Wiene",
+            "d": "Todos os anteriores"
+          },
+          "resposta_correta": "d"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Fabuloso Destino de Amélie Poulain”?",
+          "opcoes": {
+            "a": "Jean-Pierre Jeunet",
+            "b": "Luc Besson",
+            "c": "François Truffaut",
+            "d": "Claude Chabrol"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor polonês é conhecido por filmes como “O Pianista”?",
+          "opcoes": {
+            "a": "Krzysztof Kieślowski",
+            "b": "Roman Polanski",
+            "c": "Andrzej Wajda",
+            "d": "Agnieszka Holland"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “O Poderoso Chefão”?",
+          "opcoes": {
+            "a": "Francis Ford Coppola",
+            "b": "Martin Scorsese",
+            "c": "Brian De Palma",
+            "d": "Sergio Leone"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor italiano é famoso por filmes de faroeste spaghetti como “Três Homens em Conflito”?",
+          "opcoes": {
+            "a": "Sergio Leone",
+            "b": "Federico Fellini",
+            "c": "Luchino Visconti",
+            "d": "Bernardo Bertolucci"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “Amadeus”?",
+          "opcoes": {
+            "a": "Miloš Forman",
+            "b": "Milos Forman",
+            "c": "Roman Polanski",
+            "d": "Peter Weir"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor australiano dirigiu “Mad Max”?",
+          "opcoes": {
+            "a": "George Miller",
+            "b": "Peter Weir",
+            "c": "Baz Luhrmann",
+            "d": "Phillip Noyce"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Segredo dos Seus Olhos”?",
+          "opcoes": {
+            "a": "Juan José Campanella",
+            "b": "Pedro Almodóvar",
+            "c": "Alejandro González Iñárritu",
+            "d": "Alfonso Cuarón"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Qual diretor é conhecido por filmes como “Inception” e “Dunkirk”?",
+          "opcoes": {
+            "a": "Christopher Nolan",
+            "b": "Ridley Scott",
+            "c": "Steven Spielberg",
+            "d": "James Cameron"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “A Vida é Bela”?",
+          "opcoes": {
+            "a": "Roberto Benigni",
+            "b": "Federico Fellini",
+            "c": "Bernardo Bertolucci",
+            "d": "Paolo Sorrentino"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor francês é conhecido por “O Fabuloso Destino de Amélie Poulain”?",
+          "opcoes": {
+            "a": "Jean-Pierre Jeunet",
+            "b": "Luc Besson",
+            "c": "François Truffaut",
+            "d": "Claude Chabrol"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Labirinto do Fauno”?",
+          "opcoes": {
+            "a": "Guillermo del Toro",
+            "b": "Alfonso Cuarón",
+            "c": "Alejandro González Iñárritu",
+            "d": "Pedro Almodóvar"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor espanhol é conhecido por “Tudo Sobre Minha Mãe”?",
+          "opcoes": {
+            "a": "Pedro Almodóvar",
+            "b": "Alejandro Amenábar",
+            "c": "Luis Buñuel",
+            "d": "Carlos Saura"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “O Fabuloso Destino de Amélie Poulain”?",
+          "opcoes": {
+            "a": "Jean-Pierre Jeunet",
+            "b": "Luc Besson",
+            "c": "François Truffaut",
+            "d": "Claude Chabrol"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por filmes como “O Labirinto do Fauno” e “A Forma da Água”?",
+          "opcoes": {
+            "a": "Guillermo del Toro",
+            "b": "Alfonso Cuarón",
+            "c": "Alejandro González Iñárritu",
+            "d": "Pedro Almodóvar"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Grande Lebowski”?",
+          "opcoes": {
+            "a": "Joel e Ethan Coen",
+            "b": "Wes Anderson",
+            "c": "Paul Thomas Anderson",
+            "d": "Quentin Tarantino"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por filmes como “There Will Be Blood”?",
+          "opcoes": {
+            "a": "Paul Thomas Anderson",
+            "b": "David Fincher",
+            "c": "Darren Aronofsky",
+            "d": "Spike Jonze"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Pianista”?",
+          "opcoes": {
+            "a": "Roman Polanski",
+            "b": "Krzysztof Kieślowski",
+            "c": "Andrzej Wajda",
+            "d": "Agnieszka Holland"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “Birdman”?",
+          "opcoes": {
+            "a": "Alejandro González Iñárritu",
+            "b": "Alfonso Cuarón",
+            "c": "Guillermo del Toro",
+            "d": "Pedro Almodóvar"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por “Mulholland Drive”?",
+          "opcoes": {
+            "a": "David Lynch",
+            "b": "David Fincher",
+            "c": "Darren Aronofsky",
+            "d": "Paul Thomas Anderson"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “O Show de Truman”?",
+          "opcoes": {
+            "a": "Peter Weir",
+            "b": "Steven Spielberg",
+            "c": "Ron Howard",
+            "d": "Cameron Crowe"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por “The Social Network”?",
+          "opcoes": {
+            "a": "David Fincher",
+            "b": "Aaron Sorkin",
+            "c": "Ben Affleck",
+            "d": "Sam Mendes"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “La La Land”?",
+          "opcoes": {
+            "a": "Damien Chazelle",
+            "b": "Christopher Nolan",
+            "c": "Wes Anderson",
+            "d": "Paul Thomas Anderson"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "tema": "Cinema Internacional",
+      "perguntas": [
+        {
+          "pergunta": "Quem dirigiu “Whiplash”?",
+          "opcoes": {
+            "a": "Damien Chazelle",
+            "b": "Christopher Nolan",
+            "c": "David Fincher",
+            "d": "Paul Thomas Anderson"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por “The Grand Budapest Hotel”?",
+          "opcoes": {
+            "a": "Wes Anderson",
+            "b": "Tim Burton",
+            "c": "Guy Ritchie",
+            "d": "Spike Jonze"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “Moonlight”?",
+          "opcoes": {
+            "a": "Barry Jenkins",
+            "b": "Steve McQueen",
+            "c": "Ava DuVernay",
+            "d": "Jordan Peele"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual diretor é conhecido por “Get Out”?",
+          "opcoes": {
+            "a": "Jordan Peele",
+            "b": "M. Night Shyamalan",
+            "c": "David Robert Mitchell",
+            "d": "James Wan"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem dirigiu “Spotlight”?",
+          "opcoes": {
+            "a": "Tom McCarthy",
+            "b": "Steven Spielberg",
+            "c": "Martin Scorsese",
+            "d": "Clint Eastwood"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido como “Rei do Pop”?",
+          "opcoes": {
+            "a": "Elvis Presley",
+            "b": "Michael Jackson",
+            "c": "Prince",
+            "d": "Madonna"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual banda lançou “Bohemian Rhapsody”?",
+          "opcoes": {
+            "a": "The Beatles",
+            "b": "Queen",
+            "c": "Led Zeppelin",
+            "d": "Pink Floyd"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é a cantora de “Like a Prayer”?",
+          "opcoes": {
+            "a": "Madonna",
+            "b": "Whitney Houston",
+            "c": "Celine Dion",
+            "d": "Mariah Carey"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical tem raízes no blues e jazz e se desenvolveu em Nova Orleans?",
+          "opcoes": {
+            "a": "Rock",
+            "b": "Jazz",
+            "c": "Reggae",
+            "d": "Samba"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por canções como “Imagine”?",
+          "opcoes": {
+            "a": "Paul McCartney",
+            "b": "John Lennon",
+            "c": "George Harrison",
+            "d": "Ringo Starr"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Qual banda britânica lançou o álbum “Dark Side of the Moon”?",
+          "opcoes": {
+            "a": "The Beatles",
+            "b": "Pink Floyd",
+            "c": "The Rolling Stones",
+            "d": "Led Zeppelin"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é o vocalista da banda U2?",
+          "opcoes": {
+            "a": "Bono",
+            "b": "Sting",
+            "c": "Freddie Mercury",
+            "d": "Mick Jagger"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora é conhecida por “Rolling in the Deep”?",
+          "opcoes": {
+            "a": "Adele",
+            "b": "Amy Winehouse",
+            "c": "Beyoncé",
+            "d": "Rihanna"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o instrumento principal do jazz tradicional?",
+          "opcoes": {
+            "a": "Violino",
+            "b": "Saxofone",
+            "c": "Guitarra elétrica",
+            "d": "Harpa"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Purple Rain”?",
+          "opcoes": {
+            "a": "Michael Jackson",
+            "b": "Prince",
+            "c": "David Bowie",
+            "d": "Elton John"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Qual banda lançou “Stairway to Heaven”?",
+          "opcoes": {
+            "a": "Led Zeppelin",
+            "b": "The Who",
+            "c": "The Rolling Stones",
+            "d": "Pink Floyd"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem é a cantora de “Respect”?",
+          "opcoes": {
+            "a": "Aretha Franklin",
+            "b": "Tina Turner",
+            "c": "Diana Ross",
+            "d": "Etta James"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical originou-se no Bronx, Nova York, nos anos 1970?",
+          "opcoes": {
+            "a": "Disco",
+            "b": "Hip-hop",
+            "c": "Punk",
+            "d": "Reggae"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Hotel California”?",
+          "opcoes": {
+            "a": "The Eagles",
+            "b": "Fleetwood Mac",
+            "c": "The Doors",
+            "d": "The Beach Boys"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual artista é associado ao movimento grunge de Seattle?",
+          "opcoes": {
+            "a": "Kurt Cobain (Nirvana)",
+            "b": "Axl Rose (Guns N’ Roses)",
+            "c": "Bono (U2)",
+            "d": "Chris Martin (Coldplay)"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem compôs a ópera “La Traviata”?",
+          "opcoes": {
+            "a": "Giuseppe Verdi",
+            "b": "Giacomo Puccini",
+            "c": "Wolfgang Amadeus Mozart",
+            "d": "Richard Wagner"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o instrumento de cordas tocado com arco?",
+          "opcoes": {
+            "a": "Piano",
+            "b": "Violino",
+            "c": "Guitarra elétrica",
+            "d": "Saxofone"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Smells Like Teen Spirit”?",
+          "opcoes": {
+            "a": "Nirvana",
+            "b": "Pearl Jam",
+            "c": "Soundgarden",
+            "d": "Alice in Chains"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora lançou o álbum “Lemonade”?",
+          "opcoes": {
+            "a": "Rihanna",
+            "b": "Beyoncé",
+            "c": "Adele",
+            "d": "Taylor Swift"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Qual é o ritmo tradicional do samba de roda?",
+          "opcoes": {
+            "a": "2/4",
+            "b": "4/4",
+            "c": "6/8",
+            "d": "3/4"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido por “Thriller”?",
+          "opcoes": {
+            "a": "Michael Jackson",
+            "b": "Prince",
+            "c": "Madonna",
+            "d": "David Bowie"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual banda lançou “Back in Black”?",
+          "opcoes": {
+            "a": "AC/DC",
+            "b": "Metallica",
+            "c": "Iron Maiden",
+            "d": "Black Sabbath"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem é a cantora de “Like a Virgin”?",
+          "opcoes": {
+            "a": "Madonna",
+            "b": "Cyndi Lauper",
+            "c": "Janet Jackson",
+            "d": "Paula Abdul"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual instrumento é central na música country tradicional?",
+          "opcoes": {
+            "a": "Banjo",
+            "b": "Saxofone",
+            "c": "Violino clássico",
+            "d": "Trompete"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Born to Run”?",
+          "opcoes": {
+            "a": "Bruce Springsteen",
+            "b": "Bob Dylan",
+            "c": "Tom Petty",
+            "d": "Neil Young"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Qual é o nome do festival de música famoso realizado em 1969 nos EUA?",
+          "opcoes": {
+            "a": "Monterey Pop",
+            "b": "Woodstock",
+            "c": "Glastonbury",
+            "d": "Coachella"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Blowin’ in the Wind”?",
+          "opcoes": {
+            "a": "Bob Dylan",
+            "b": "Joan Baez",
+            "c": "Pete Seeger",
+            "d": "Woody Guthrie"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical originou-se na Jamaica e influenciou o reggae?",
+          "opcoes": {
+            "a": "Ska",
+            "b": "Samba",
+            "c": "Blues",
+            "d": "Country"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem é a cantora de “Hello”?",
+          "opcoes": {
+            "a": "Adele",
+            "b": "Amy Winehouse",
+            "c": "Sia",
+            "d": "Lana Del Rey"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual banda lançou “The Wall”?",
+          "opcoes": {
+            "a": "Pink Floyd",
+            "b": "The Beatles",
+            "c": "The Rolling Stones",
+            "d": "Led Zeppelin"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido por “Hey Jude”?",
+          "opcoes": {
+            "a": "The Beatles",
+            "b": "The Rolling Stones",
+            "c": "The Who",
+            "d": "The Kinks"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora lançou “Bad Romance”?",
+          "opcoes": {
+            "a": "Lady Gaga",
+            "b": "Katy Perry",
+            "c": "Rihanna",
+            "d": "Beyoncé"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual é o instrumento típico do flamenco?",
+          "opcoes": {
+            "a": "Piano",
+            "b": "Guitarra espanhola",
+            "c": "Violino",
+            "d": "Trompete"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Imagine”?",
+          "opcoes": {
+            "a": "John Lennon",
+            "b": "Paul McCartney",
+            "c": "George Harrison",
+            "d": "Ringo Starr"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical é associado a improvisação e solos extensos?",
+          "opcoes": {
+            "a": "Jazz",
+            "b": "Pop",
+            "c": "Disco",
+            "d": "Reggaeton"
+          },
+          "resposta_correta": "a"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido por “Like a Rolling Stone”?",
+          "opcoes": {
+            "a": "Bob Dylan",
+            "b": "Bruce Springsteen",
+            "c": "Tom Petty",
+            "d": "Neil Young"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora lançou “Bad Guy”?",
+          "opcoes": {
+            "a": "Billie Eilish",
+            "b": "Ariana Grande",
+            "c": "Dua Lipa",
+            "d": "Selena Gomez"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual instrumento é central na música tradicional irlandesa?",
+          "opcoes": {
+            "a": "Sitar",
+            "b": "Tin whistle / Flauta irlandesa",
+            "c": "Koto",
+            "d": "Balalaika"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Stairway to Heaven”?",
+          "opcoes": {
+            "a": "Led Zeppelin",
+            "b": "The Rolling Stones",
+            "c": "The Beatles",
+            "d": "Pink Floyd"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical mistura elementos eletrônicos e batidas dançantes, surgido nos anos 1980?",
+          "opcoes": {
+            "a": "EDM",
+            "b": "Disco",
+            "c": "House",
+            "d": "Techno"
+          },
+          "resposta_correta": "c"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido por “No Woman, No Cry”?",
+          "opcoes": {
+            "a": "Bob Marley",
+            "b": "Peter Tosh",
+            "c": "Jimmy Cliff",
+            "d": "Burning Spear"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora lançou “Shake It Off”?",
+          "opcoes": {
+            "a": "Taylor Swift",
+            "b": "Katy Perry",
+            "c": "Rihanna",
+            "d": "Adele"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual instrumento é típico do samba?",
+          "opcoes": {
+            "a": "Pandeiro",
+            "b": "Violino",
+            "c": "Saxofone",
+            "d": "Trombone"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Sweet Child O’ Mine”?",
+          "opcoes": {
+            "a": "Guns N’ Roses",
+            "b": "Metallica",
+            "c": "Nirvana",
+            "d": "Aerosmith"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical brasileiro é marcado por batidas sincopadas e origem afro-brasileira?",
+          "opcoes": {
+            "a": "Forró",
+            "b": "Samba",
+            "c": "Sertanejo",
+            "d": "Bossa nova"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "tema": "Música Popular",
+      "perguntas": [
+        {
+          "pergunta": "Quem é conhecido por “Shape of You”?",
+          "opcoes": {
+            "a": "Ed Sheeran",
+            "b": "Justin Bieber",
+            "c": "Shawn Mendes",
+            "d": "Bruno Mars"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual cantora lançou “Rolling in the Deep”?",
+          "opcoes": {
+            "a": "Adele",
+            "b": "Amy Winehouse",
+            "c": "Beyoncé",
+            "d": "Rihanna"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual instrumento é central no rock clássico?",
+          "opcoes": {
+            "a": "Harpa",
+            "b": "Guitarra elétrica",
+            "c": "Oboé",
+            "d": "Clarinete"
+          },
+          "resposta_correta": "b"
+        },
+        {
+          "pergunta": "Quem é conhecido por “Like a Prayer”?",
+          "opcoes": {
+            "a": "Madonna",
+            "b": "Janet Jackson",
+            "c": "Cyndi Lauper",
+            "d": "Paula Abdul"
+          },
+          "resposta_correta": "a"
+        },
+        {
+          "pergunta": "Qual gênero musical mistura samba com jazz e surgiu no Brasil nos anos 1950?",
+          "opcoes": {
+            "a": "Forró",
+            "b": "Bossa nova",
+            "c": "MPB",
+            "d": "Tropicalismo"
+          },
+          "resposta_correta": "b"
+        }
+      ]
+    }
+  ]
+}
