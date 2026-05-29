@@ -26,19 +26,14 @@ def adicionar_ranking_usuario(dados, pontos, nome):
     dados.append(novo_ranking)
     salvar_ranking(dados)
 
-def mostrar_ranking():
-    dados = carregar_quizzes(False)
-    for i in range(0, len(dados)):
-        print(f"{dados[i]['id']}°: {dados[i]['pontuacao']}, {dados[i]['nome']}")
-    input("\nAperte enter para voltar.\n\n")
-    time.sleep(1)
-
+def mostrar_ranking(dados):
+    ranking_ordenado = sorted(dados, key=lambda x: int(x['pontuacao']), reverse=True)
+    for i, entrada in enumerate(ranking_ordenado, start=1):
+        print(f"{i}°: {entrada['nome']} - {entrada['pontuacao']}%")
 
 # -----------------------------------------------------------
 # SISTEMA DE RESPOSTA 
 # -----------------------------------------------------------
-
-pontosUsuario = 0
 
 def processa_resposta(resposta, pergunta_atual):
     if resposta == pergunta_atual:
@@ -51,18 +46,24 @@ def processa_resposta(resposta, pergunta_atual):
 
 import random
 
-def carregar_quizzes(is_quiz):
-    if os.path.exists(ARQUIVO_QUIZES and ARQUIVO_RANKING):
-        with open(ARQUIVO_QUIZES if is_quiz else ARQUIVO_RANKING, "r", encoding="utf-8") as arquivo:
+def carregar_quizzes():
+    if os.path.exists(ARQUIVO_QUIZES):
+        with open(ARQUIVO_QUIZES, "r", encoding="utf-8") as arquivo:
             dados = json.load(arquivo)
-        if is_quiz:
-            return dados["quizzes"]
+        return dados["quizzes"]
+    return []
+
+def carregar_ranking():
+    if os.path.exists(ARQUIVO_RANKING):
+        with open(ARQUIVO_RANKING, "r", encoding="utf-8") as arquivo:
+            dados = json.load(arquivo)
         return dados
     return []
 
 def start_quiz():
-    global pontosUsuario
-    dados_quiz = carregar_quizzes(True)
+    pontos = 0
+
+    dados_quiz = carregar_quizzes()
     perguntas_lista = quiz_aleatorio(dados_quiz)
 
     print(f"Você irá fazer um quiz de {perguntas_lista['tema']}.")
@@ -73,32 +74,31 @@ def start_quiz():
     # LOOP PERGUNTAS 
     # -----------------------------------------------------------
     
-    for i in range(0, len(perguntas_lista['perguntas'])):
+    for pergunta_atual in perguntas_lista['perguntas']:
         limpar_terminal()
 
-        pergunta_atual = perguntas_lista['perguntas'][i]
-
         print("\n")
-        print(pergunta_atual["pergunta"])
+        print(pergunta_atual['pergunta'])
         print(f"\na){pergunta_atual['opcoes']['a']}\n"
             f"b){pergunta_atual['opcoes']['b']}\n"
             f"c){pergunta_atual['opcoes']['c']}\n"
             f"d){pergunta_atual['opcoes']['d']}\n")
+        
         resposta = input("\nDigite sua resposta: ").upper()
-
-        # VERIFICAÇÃO DA RESPOSTA + ADIÇÃO DOS PONTOS
-        pontosUsuario += processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) 
+        pontos += processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) 
 
         input("\nAperte enter para ir para a próxima pergunta.\n\n")
-        time.sleep(1)
+        time.sleep(0.5)
 
-    print(f"Você fez {pontosUsuario * 20}% do quiz")
+    total_perguntas = len(perguntas_lista['perguntas'])
+    porcentagem = round((pontos / total_perguntas) * 100)
 
-    dados_ranking = carregar_quizzes(False)
-    adicionar_ranking_usuario(dados_ranking, str(pontosUsuario * 20), nomeUsuario)
+    print(f"Você fez {porcentagem}% do quiz")
+
+    dados_ranking = carregar_ranking()
+    adicionar_ranking_usuario(dados_ranking, porcentagem, nomeUsuario)
 
     print("\nSua pontuação foi salva no ranking!")
-
     input("\nAperte enter para voltar.\n\n")
     time.sleep(1)
 
@@ -116,8 +116,11 @@ def processa_informacao(info):
     match info:
         case '1' | "INICIAR" | "INICIAR O QUIZ":
             start_quiz()
+            return True
         case '2' | "VER" | "VER RANKING":
-            mostrar_ranking()
+            dados_ranking = carregar_ranking()
+            mostrar_ranking(dados_ranking)
+            return True
         case '3' | "SAIR":
             return False
 
@@ -140,5 +143,6 @@ while True:
         "\nEscolha uma opção: "
     ).upper()
 
-    if processa_informacao(escolha) == False:
+    if not processa_informacao(escolha):
         break
+    input("\nVoltar - pressione ENTER\n\n")
