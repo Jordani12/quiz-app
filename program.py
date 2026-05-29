@@ -21,8 +21,7 @@ def salvar_ranking(ranking):
     with open(ARQUIVO_RANKING, "w", encoding="utf-8") as arquivo:
         json.dump(ranking, arquivo, indent=4, ensure_ascii=False)
 
-def adicionar_ranking_usuario(pontos, nome):
-    dados = carregar_quizzes(False)
+def adicionar_ranking_usuario(dados, pontos, nome):
     novo_ranking ={"id": len(dados) + 1, "nome": nome, "pontuacao": pontos}
     dados.append(novo_ranking)
     salvar_ranking(dados)
@@ -33,6 +32,7 @@ def mostrar_ranking():
         print(f"{dados[i]['id']}°: {dados[i]['pontuacao']}, {dados[i]['nome']}")
     input("\nAperte enter para voltar.\n\n")
     time.sleep(1)
+
 
 # -----------------------------------------------------------
 # SISTEMA DE RESPOSTA 
@@ -62,7 +62,8 @@ def carregar_quizzes(is_quiz):
 
 def start_quiz():
     global pontosUsuario
-    perguntas_lista = quiz_aleatorio()
+    dados_quiz = carregar_quizzes(True)
+    perguntas_lista = quiz_aleatorio(dados_quiz)
 
     print(f"Você irá fazer um quiz de {perguntas_lista['tema']}.")
 
@@ -85,23 +86,23 @@ def start_quiz():
             f"d){pergunta_atual['opcoes']['d']}\n")
         resposta = input("\nDigite sua resposta: ").upper()
 
-        pontosUsuario += processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) # VERIFICAÇÃO DA RESPOSTA + ADIÇÃO DOS PONTOS
+        # VERIFICAÇÃO DA RESPOSTA + ADIÇÃO DOS PONTOS
+        pontosUsuario += processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) 
 
         input("\nAperte enter para ir para a próxima pergunta.\n\n")
         time.sleep(1)
 
     print(f"Você fez {pontosUsuario * 20}% do quiz")
 
-    adicionar_ranking_usuario(str(pontosUsuario * 20), nomeUsuario)
+    dados_ranking = carregar_quizzes(False)
+    adicionar_ranking_usuario(dados_ranking, str(pontosUsuario * 20), nomeUsuario)
 
     print("\nSua pontuação foi salva no ranking!")
 
     input("\nAperte enter para voltar.\n\n")
     time.sleep(1)
 
-def quiz_aleatorio():
-    dados = carregar_quizzes(True)
-
+def quiz_aleatorio(dados):
     quiz = random.choice(dados) # ESCOLHE UM DOS QUIZZES
     random.shuffle(quiz["perguntas"]) # EMBARALHA AS PERGUNTAS
     return quiz
@@ -110,8 +111,6 @@ def quiz_aleatorio():
 # -----------------------------------------------------------
 # INTERAÇÃO COM O USUÁRIO 
 # -----------------------------------------------------------
-
-sair = False
 
 def processa_informacao(info):
     match info:
@@ -127,7 +126,7 @@ limpar_terminal()
 nomeUsuario = input("Digite seu nome para começar o quiz: ")
 
 
-while sair == False:
+while True:
     limpar_terminal()
 
     escolha = input(
@@ -142,4 +141,4 @@ while sair == False:
     ).upper()
 
     if processa_informacao(escolha) == False:
-        sair = True
+        break
