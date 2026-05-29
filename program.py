@@ -6,11 +6,17 @@ PASTA = os.path.dirname(os.path.abspath(__file__))
 ARQUIVO_QUIZES = os.path.join(PASTA, "quizes.json")
 ARQUIVO_RANKING = os.path.join(PASTA, "ranking.json")
 
-# FUNÇÕES AUXILIARES -----------------------------------------------------------
+# -----------------------------------------------------------
+# FUNÇÕES AUXILIARES
+# -----------------------------------------------------------
+
 def limpar_terminal():
     os.system('cls')
 
-# SISTEMA DE RANKING -----------------------------------------------------------
+# -----------------------------------------------------------
+# SISTEMA DE RANKING 
+# -----------------------------------------------------------
+
 def salvar_ranking(ranking):
     with open(ARQUIVO_RANKING, "w", encoding="utf-8") as arquivo:
         json.dump(ranking, arquivo, indent=4, ensure_ascii=False)
@@ -28,7 +34,10 @@ def mostrar_ranking():
     input("\nAperte enter para voltar.\n\n")
     time.sleep(1)
 
-# SISTEMA DE RESPOSTA -----------------------------------------------------------
+# -----------------------------------------------------------
+# SISTEMA DE RESPOSTA 
+# -----------------------------------------------------------
+
 pontosUsuario = 0
 
 def processa_resposta(resposta, pergunta_atual):
@@ -36,7 +45,10 @@ def processa_resposta(resposta, pergunta_atual):
          return 1
     return 0
 
-# SISTEMA DE PERGUNTAS -----------------------------------------------------------
+# -----------------------------------------------------------
+# SISTEMA DE PERGUNTAS 
+# -----------------------------------------------------------
+
 import random
 
 def carregar_quizzes(is_quiz):
@@ -55,7 +67,11 @@ def start_quiz():
     print(f"Você irá fazer um quiz de {perguntas_lista['tema']}.")
 
     time.sleep(3)
-    # LOOP PERGUNTAS -----------------------------------------------------------
+
+    # -----------------------------------------------------------
+    # LOOP PERGUNTAS 
+    # -----------------------------------------------------------
+    
     for i in range(0, len(perguntas_lista['perguntas'])):
         limpar_terminal()
 
@@ -91,7 +107,10 @@ def quiz_aleatorio():
     return quiz
 
 
-# INTERAÇÃO COM O USUÁRIO -----------------------------------------------------------
+# -----------------------------------------------------------
+# INTERAÇÃO COM O USUÁRIO 
+# -----------------------------------------------------------
+
 sair = False
 
 def processa_informacao(info):
