@@ -23,5 +23,20 @@
         "id": 5,
         "nome": "di0ro",
         "pontuacao": 60
+    },
+    {
+        "id": 6,
+        "nome": "teste2",
+        "pontuacao": 80
+    },
+    {
+        "id": 7,
+        "nome": "kaka",
+        "pontuacao": 60
+    },
+    {
+        "id": 8,
+        "nome": "teste3",
+        "pontuacao": 40
     }
 ]

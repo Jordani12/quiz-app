@@ -85,7 +85,16 @@ def start_quiz():
             f"d){pergunta_atual['opcoes']['d']}\n")
         
         resposta = input("\nDigite sua resposta: ").upper()
-        pontos += processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) 
+        soma = processa_resposta(resposta, pergunta_atual['resposta_correta'].upper()) 
+        pontos += soma
+        
+        limpar_terminal()
+        if soma == 1:
+            print("Você acertou!")
+        else:
+            resposta_correta = pergunta_atual['resposta_correta']
+            print("Você errou.\n" \
+            f"A resposta correta era: {resposta_correta} - {pergunta_atual['opcoes'][resposta_correta]}")
 
         input("\nAperte enter para ir para a próxima pergunta.\n\n")
         time.sleep(0.5)
@@ -99,7 +108,6 @@ def start_quiz():
     adicionar_ranking_usuario(dados_ranking, porcentagem, nomeUsuario)
 
     print("\nSua pontuação foi salva no ranking!")
-    input("\nAperte enter para voltar.\n\n")
     time.sleep(1)
 
 def quiz_aleatorio(dados):
